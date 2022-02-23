@@ -1,0 +1,1053 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The liturgical considerator considered, or, A brief view of Dr. Gauden's considerations touching the liturgy of the Church of England wherein the reasons by him produced for imposing the said liturgy upon all, are found to be so weak, his defence of things offensive in it so slight, the arguments against the liturgy by himselfe afforded, are so strong, that some, who upon His Majesties declaration did incline to the liturgy, are now further from it, by reading his wordy discourse about it : also some reasons humbly rendered, why many ministers, as yet cannot conform to that liturgy, but not out of disloyalty, pride, ingratitude, peevishness, nor schismatical petulancy, as the sarcastical pen of this uncharitable doctor hath published ... / by G.F.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 155 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41326</idno>
+            <idno type="STC">Wing F956</idno>
+            <idno type="STC">ESTC R843</idno>
+            <idno type="EEBO-CITATION">12409597</idno>
+            <idno type="OCLC">ocm 12409597</idno>
+            <idno type="VID">61483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61483)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 938:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The liturgical considerator considered, or, A brief view of Dr. Gauden's considerations touching the liturgy of the Church of England wherein the reasons by him produced for imposing the said liturgy upon all, are found to be so weak, his defence of things offensive in it so slight, the arguments against the liturgy by himselfe afforded, are so strong, that some, who upon His Majesties declaration did incline to the liturgy, are now further from it, by reading his wordy discourse about it : also some reasons humbly rendered, why many ministers, as yet cannot conform to that liturgy, but not out of disloyalty, pride, ingratitude, peevishness, nor schismatical petulancy, as the sarcastical pen of this uncharitable doctor hath published ... / by G.F.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[24], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Edition statement transposed from title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gauden, John, 1605-1662. --  Considerations touching the liturgy of the Church of England.</term>
+               <term>Church of England --  Liturgy --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61483:1"/>
+            <pb facs="tcp:61483:1" rendition="simple:additions"/>
+            <p>THE <hi>LIT<g ref="char:V">Ʋ</g>RGICAL</hi> CONSIDERATOR CONSIDERED: Or a brief view of Dr. <hi>GA<g ref="char:V">Ʋ</g>DEN'S</hi> Conſiderations touching the <hi>LIT<g ref="char:V">Ʋ</g>RGY</hi> of the Church of <hi>ENGLAND.</hi>
+            </p>
+            <p>Wherein the Reaſons by him produced for impoſing the ſaid Litur<g ref="char:EOLhyphen"/>gy upon all, are found to be ſo <hi>weak;</hi> his defence of things of<g ref="char:EOLhyphen"/>fenſive in it ſo <hi>ſlight;</hi> the Arguments againſt the Liturgy by him<g ref="char:EOLhyphen"/>ſelf afforded, are ſo <hi>ſtrong,</hi> that ſome, who upon His <hi>Majeſties Declaration</hi> did incline to the Liturgy, are now further from it, by reading his <hi>wordy</hi> Diſcourſe about it.</p>
+            <p>ALSO Some Reaſons humbly rendered, why ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Miniſters <hi>as yet</hi> cannot conform to <hi>that</hi> Liturgy; but not out of <hi>Diſloyalty, Pride, Ingratitude, Peeviſh<g ref="char:EOLhyphen"/>neſs,</hi> nor <hi>Schiſmatical Petulancy,</hi> as the Sarcaſtical Pen of this unchari<g ref="char:EOLhyphen"/>table Doctor hath publiſhed.</p>
+            <p>
+               <hi>The ſecond Edition.</hi>
+            </p>
+            <p>By <hi>G. F.</hi> as <hi>Firm</hi> and Loyal a Subject to His Majeſty, as this <hi>CONSIDERATOR</hi> is.</p>
+            <q>
+               <p>Likewiſe the Spirit alſo helpeth our infirmities; for we know not what we ſhould pray for as we ought, <hi>&amp;c.</hi>
+                  <bibl>
+                     <hi>Rom. 8.26.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Juſt. Mart.</hi> Sine monitor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, quia de pectore oramus.
+<bibl>
+                     <hi>Tertul.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <hi>You muſt give God His due by regulating aright His Church according to his</hi> Scripture. <hi>King</hi> Charls <hi>the firſt, in His</hi> dying Speech.</p>
+               <p>
+                  <hi>The Vices in Rhetorick are Sordidneſs, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ediouſneſs, Obſcurity, Flatneſs of Conceit, Ar<g ref="char:EOLhyphen"/>gu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eneſs, and</hi> Minutiae, Gawdineſs, Wordineſs, <hi>and empty Oſtentation. Dr.</hi> Reynolds <hi>Treatiſe of Paſſions.</hi>
+                  <bibl>Cap. <hi>39.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Smith</hi> at the Bible in <hi>Cornhil,</hi> near the <hi>Royal Exchange.</hi> 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:61483:2"/>
+            <pb facs="tcp:61483:2"/>
+            <head>An Epiſtle to the Reader by way of Apolo<g ref="char:EOLhyphen"/>gy for Ministers not receiving the Common-Prayer-Book.</head>
+            <opener>
+               <salute>Chriſtian and Courteous Reader.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Judicious and Reverend Author of this enſuing Tract (no leſs approved for his learn<g ref="char:EOLhyphen"/>ing, modeſty, piety and zeal to the unity of the Church, and his
+<note n="*" place="margin">Witneſs his ſeparation ex<g ref="char:EOLhyphen"/>amined, and publiſhed, <hi>An<g ref="char:EOLhyphen"/>no</hi> 1652. and his anſwer to Dr. <hi>Owen</hi>'s Schiſme.</note> 
+               <hi>Antiſeparation</hi> in the day of its prevalency and proſperity; then for his loy<g ref="char:EOLhyphen"/>alty and fidelity to the Kings Majeſty in the day of His diſtreſs) having entred the Liſts with my Antagoniſt (Dr. <hi>John Gauden)</hi> by way of Anſwer to his confu<g ref="char:EOLhyphen"/>ſed <hi>Conſiderations of the Liturgy of the Church of</hi> England; <hi>Pre<g ref="char:EOLhyphen"/>latical cenſures</hi> (beyond the bounds of charity or ſobriety) of many His Majeſties beſt and moſt loyal Subjects, who in prudence or conſcience forbear the uſe thereof; and his <hi>Sarcaſtical Com<g ref="char:EOLhyphen"/>ment</hi> on His Majeſties Gracious Declaration concerning Eccleſi<g ref="char:EOLhyphen"/>aſtical Affairs, and the liberty thereby indulged and uſed (as we pre<g ref="char:EOLhyphen"/>ſume on due and fit encouragement) was pleaſed to vouchſafe me a view therof: which I having ſeriouſly peruſed, do find to con<g ref="char:EOLhyphen"/>tain an Anſwer ſo <hi>full and ſober,</hi> by Arguments ſo <hi>weighty and ſolid,</hi> that I cannot but commend it to the reading, and regard of all ſerious Chriſtians who deſire to have their Faith ſetled by <hi>right and religions Reaſon,</hi> againſt the unſettledneſs of fancy, to which the florid expreſſions of Rhetorick can only avail.</p>
+            <p>If thou haſt read Dr. <hi>Gaudens Conſiderations,</hi> thou findeſt the <hi>Liturgy</hi> ſet out in ſuch excellency, and <hi>extemporary conceived prayer,</hi> ſo much debaſed by elegant expreſſions, and florid Hyperbo<g ref="char:EOLhyphen"/>lies, that thou canſt not but be raviſhed in thine imagination; but if with patience thou readeſt and pondereſt this Tract, and the Arguments therein produced, with the extent and reflections of the ſame, thou wilt find the Dr. hath indeed <hi>Hype bolized</hi> and verified what hath been obſerved of him <hi>(viz) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat his Rhetorick is better than his Reaſon;</hi> that being exceedingly extravagant through the want of this, for his ſpeech ſounds better than it informs, and plea<g ref="char:EOLhyphen"/>ſeth as it paſſeth, not as it is po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dered; I have often heard of Queen <hi>Elizabeths</hi> Character of a Sermon, firſt preached, and
+<pb facs="tcp:61483:3"/>then printed, <hi>viz.</hi> That <hi>it was the beſt in hearing, but worst in rea<g ref="char:EOLhyphen"/>ding:</hi> And that the Preachers Apology was, that Her Majeſty in reading, had his <hi>Fiddle, not his Fiddleſtick.</hi> My ſerious advice muſt be to this Reverend man if it be not below him to take it) never hereafter to ſunder theſe two, for his Oratory loſeth its luſtre and efficacy with its ſound.</p>
+            <p>This, and works of this nature are commended to thee, noc to the end it ſhould <hi>maintain or promote the Controverſies con<g ref="char:EOLhyphen"/>ce ning the Common Peayer Book</hi> (which have been ſo high in nature,
+<note place="margin">Witneſſe the troubles at <hi>Franckſord</hi> An. 1554. in the times of Queen <hi>Mary.</hi>
+               </note> and long in continuance, ever ſince before the reign of Queen <hi>Elizabeth,</hi> that would men with ſerious and compoſed ſpi<g ref="char:EOLhyphen"/>rits, conſult the Churches peace, (to which they ſo fairly pretend,) it would be found a ſufficient Reaſon to aboliſh this Book, and make void this Form of publick Worſhip, which none dare affirm neceſſary; and therefore muſt confeſs to be alterable, when found inconvenient) but to <hi>convince the World,</hi> the Miniſters who do yet demurr to the uſe thereof, are not without conſcientious grounds for their ſo doing, which they could with much eaſe and equity digeſt into an Apology: what ſerious Chriſtian can obſerve the malici us vexations of Miniſters, by the ſpight of many Church<g ref="char:EOLhyphen"/>warders and particular perſons proſecuting their faithful and able Miniſters, unto the loſs of their Eſtates, impriſonment of their perſons, (and at leaſt,) preſent interruptions of their Miniſtry, though the want of a Standard wherby to try the Common-pray<g ref="char:EOLhyphen"/>er Book which hath had its change by every of our Kings, ſirce the Reformation of Religion muſt needs render their conviction impoſſible to every underſtanding, and conſcientious Juror: Or, the Biſhops wilful and pertinacious refuſing to ordain, inſtitute, or induct any Miniſters, unleſſe they will ſubſcribe <hi>the uſe of the Com<g ref="char:EOLhyphen"/>mon Prayer Book to be lawful, and that they will uſe it in all publick prayer, and none other,</hi> according to the Canon, (whoſe eſtabliſh<g ref="char:EOLhyphen"/>ment by Law is donbted and denied) notwithſtanding His Majeſties Gracious Indulgence in his Royal Declaration every way propor<g ref="char:EOLhyphen"/>tionable to that Authority by which theſe Canons were at firſt eſtabliſhed; or thoſe heavy Cenſures, and harſh Invectives proud<g ref="char:EOLhyphen"/>ly belched out by our Antagoniſt, againſt all ſuch as do not pre<g ref="char:EOLhyphen"/>ſently conform to the uſe thereof, as guilty of <hi>peeviſhneſſe, ingra<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tude, ſchiſmatical petulancy, or pride,</hi> not ſo much as conſidering what hath been by one well ſuggeſted, That <hi>the prudence of ſome, expecting the alteration promiſed in his Majeſties Declaration,
+<pb facs="tcp:61483:3"/>doth ſuperſede the Act which their deſire of the peace,
+<note place="margin">Conſiderat. of <hi>Liturgy. p.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Tho. Bold.</hi> in his Rhetorick re<g ref="char:EOLhyphen"/>ſtrained. <hi>pag.</hi> 3.</note> unity and uni<g ref="char:EOLhyphen"/>formity of the Church doth incline them unto.</hi> Can I ſay theſe things be obſerved, and men not ſee plainly, that ſome pretending to the <hi>healing of our wounds,</hi> do propoſe and perſue wayes and methods which muſt needs beſpeak them <hi>Phyſitians of no value;</hi> nay, of more cruelty than skill, fruſtrating the very influence of His Majeſty's plaiſter, applied by His Gracious Declaration; con<g ref="char:EOLhyphen"/>ſtraining men (who otherwiſe might with all humble thankfulnes enjoy in ſilence the liberty indulged) by open and publick Apo<g ref="char:EOLhyphen"/>logies to ſtave off the violent and unjuſt cenſures of proud and en<g ref="char:EOLhyphen"/>vious men.</p>
+            <p>
+               <hi>Chriſtian and Courteous Reader,</hi> I have in Loyalty to His Majeſty, with ſuch fervency and fidelity aſſerted His juſt Intereſt, that it may rationally be concluded, I would not in the leaſt de<g ref="char:EOLhyphen"/>cline His juſt Deſires, or deviate from his Royal Command, did not Conſcience towards God countermand the Compliance with them. And I am ſo much affected to the peace of the Church, that I have of late preached, what God aſſiſting. I reſolve to practice, <hi>(viz.) That many and great corruptions in Gods Worſhip are to be grieved for, and patiently groaned under, before Schiſme be con<g ref="char:EOLhyphen"/>ſented un o, or ſeperation conſulted.]</hi> Provided nevertheleſs <hi>I be paſſive, not active in them,</hi> I can keep communion under that Form of Worſhip, whereby I cannot adminiſter, and heartily ſay, <hi>Amen</hi> to the matter of thoſe Petitions which are put up<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n an order ſo confuſed, prepoſterous, and indigeſted, that it ſeems to me to be ſo much below the <hi>gravity of the Church,</hi> whoſe mouth I muſt be; <hi>the ſeriouſneſſe of the Office</hi> whereby I miniſter; <hi>the ſanctity of the Duty</hi> I am to perform; and <hi>the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ored nature of the Object</hi> to whom they are preſented, that I dare not ſtand be<g ref="char:EOLhyphen"/>tween God and his people with the ſame;
+<note place="margin">
+                  <hi>Calvins</hi> Epiſtle to Mr. <hi>Knox,</hi> Mr. <hi>Wittingham</hi> and the bre<g ref="char:EOLhyphen"/>thren at <hi>Franck ford.</hi>
+               </note> and therefore cannot but in my place and capacity contend againſt it, and with <hi>Calvin</hi> (in this very caſe) allow their conſtancy, <hi>who ſtrive for a just cauſe, being forced againſt their will unto contention;</hi> and wor<g ref="char:EOLhyphen"/>thily condemn the frowardneſs which doth <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſtay the holy carefulneſs of ref rming the Church.</hi>
+            </p>
+            <p>Let not men miſtake us (I profeſs it for my ſelf, and pre<g ref="char:EOLhyphen"/>ſume I may do it for many of my Brethren) we are not againſt Set-forms of prayer, or their uſe in publick; we believe them lawful and convenient, but not neceſſary, and therefore not to be excluſively impoſed; they may be helps to weakneſs, and happy
+<pb facs="tcp:61483:4"/>expreſſions of ſpecial emergent occaſions of prayer, or praiſes in the Church.</p>
+            <p>I do believe the Church of the Jewes had certain Set-forms of prayer and praiſes; but I believe alſo they were occaſional and tranſient; indited by the Holy Ghoſt, and compoſed by Ho<g ref="char:EOLhyphen"/>ly men for that preſent and peculiar occaſion; of this nature was the Song of <hi>Moſes, Deborah</hi> and <hi>Barak,</hi> and <hi>Davids</hi> Pſalme in 2 <hi>Sam.</hi> 22. and that at placing the Ark in the Tabernacle, 1 <hi>Chron.</hi> 16. which beareth this Note upon it, <hi>Then on that day David delivered this Pſalm to thank the Lord, into the hand of Aſaph and his Brethren;</hi> and many other Pſalms and Set-forms which are referred to their ſpecial occaſions; for which having ſerved, they were added to the Canon of Scripture, as witneſſes of Gods dealings and directions of his peoples duty in all future Ages; but were never compacted into a ſet Liturgy preſcribed, and impoſed as the only ſtanding Form of Worſhip; the Jewiſh Rabbines tell us from <hi>Moſes</hi> to <hi>Ezra,</hi> more than one thouſand years the Jewes had no ſtinted Forms of prayer in their Church; and yet they had two conſiderable Reaſons to have enforced it, which we Chriſtians have not, <hi>their infant weak eſtate wanted Crutches, and the time of the pouring out the ſpirit of ſupplica<g ref="char:EOLhyphen"/>tion was not yet come.</hi> 2. <hi>The Forms were indited by holy men in this very act inſpired by the Holy Gkoſt.</hi>
+            </p>
+            <p>I am eaſily perſwaded the ſeveral parts of the Service-book were compoſed by ſingle perſons; and who ſo will read <hi>Iſidior Du<g ref="char:EOLhyphen"/>randus,</hi>
+               <note place="margin">His Parallel of the Liturgy and Maſs-book</note> and the Rationaliſts, will find the time when, the occaſions on which, and the reaſons for which they were appointed in the Church. Mr. <hi>Baylie</hi> hath aſſigned many parts thereof to the particular Popes,
+<note place="margin">Eccleſiaſtical policy, <hi>Book</hi> 5. <hi>Pag.</hi> 265.</note> and ſeaſons preſcribing the ſame; and our own <hi>Hooker</hi> reports ſo much of the <hi>Letany</hi> or <hi>Rogations,</hi> that chief part of our Service; but that theſe things periſhed, not with their Authors and occaſions, I ſee no good Reaſons for it; admit we that they were the good expreſſions, of good men, on good occaſions; yet they were only expreſſions of men; not inſpired by the Holy-Ghoſt, and unwarrantably reſolved into a Liturgy, and made unjuſtly excluſive to the expreſſions of good men, ſucceeding, as in time, ſo in capacity to expreſs their own deſires, as their occurrent occaſion; ſhould direct in no leſs ſacred expreſſions; the alterable condition of the Church doth neceſ<g ref="char:EOLhyphen"/>ſitate their expreſſion to be alterable. I pray what part of our
+<pb facs="tcp:61483:4"/>contended-for Liturgy, as exactly perfect, ſhall ſolemnize <hi>the ſaul-humbling memorial</hi> of the malicious, miſchievous Murther of His late Majeſty, to be held on the 30th. of <hi>January;</hi> or the <hi>God-praiſing memorial</hi> of the Happy and Honourable Return of his Sacred Majeſty that now is, to be obſerved Annually on the 29th. of <hi>May.</hi> I hope men ſhall not be indicted for making mention thereof by conceived prayer or praiſes; none being in the Book prepared or preſcribed which can do it: for it is moſt un<g ref="char:EOLhyphen"/>reaſonable that we ſhould be impoſed upon by the perſonall com<g ref="char:EOLhyphen"/>poſures of private fancies who without warrant compoſe ſet forms, and therein vent their own ſuperſtitious notions as hath been attempted by the books publiſhed as forms of prayer, for the 29th. of <hi>May</hi> and 30th. of <hi>January,</hi> the laſt of which was ſent in the name of the Biſhop of <hi>London</hi> to our Churches, if by his Authority I conceive not more to the offence of many Godly men, then Breach of the Laws, and Uſurpation on his Ma<g ref="char:EOLhyphen"/>jeſties Authority, and abuſe of his Royal Power, puniſhable with a <hi>Praemunire:</hi> In reference to this variation, the Church might, and muſt keep a ſtanding Council to vary the Liturgy if we be not bound to dependance on the Spirit; which the Apo<g ref="char:EOLhyphen"/>ſtle directeth, when we <hi>know not what to ask,</hi> Rom. 8.26. as the only help to our infirmities, and ſo excludeth all preſcribed prayers which muſt render the dictating power of the ſpirit uſeleſſe, unleſſe the prayer be in an <hi>unknown Tongue,</hi> or ambiguous phraſe, <hi>much at one with latine-ſervice,</hi> where the ſpirit is needed as an <hi>interpreter,</hi> not dictator, or moſt <hi>perfectly comprehenſive words,</hi> that the mind may expatiate upon, and that is peculiar to the Lords prayer; and ſo that muſt be our only Li<g ref="char:EOLhyphen"/>turgy.</p>
+            <p>That St. <hi>John</hi> the Baptiſt taught his Diſciples to pray, I yield; and that our Saviour teaching his, propounded to them a moſt <hi>perfect prayer,</hi> compendious for the manner; but moſt comprehenſive for the matter of the expreſſion, to be their pattern, no ſerious ſo<g ref="char:EOLhyphen"/>ber Chriſtian can or will deny; but that they were confined to the only or conſtant uſe there of, none do, or dare affirm; or that it ſhould be to them the Dictator of a ſtanding Liturgy, cannot be rationally inferred; becauſe the preſcription of it affords no pre<g ref="char:EOLhyphen"/>mifes to enforce ſuch a concluſion, the Diſciples, who learned that they might teach the Church, never improved it to ſuch an end; themſelves prayed often and openly in the Church, yet on<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:61483:5"/>in their own expreſſions (for ought appears to us by holy writ) and the nature and order of prayer, being <hi>a ſerious expreſſion of the hearts ſenſible conception,</hi> doth interfer with ſuch an inference.</p>
+            <p>That <hi>Liturgies</hi> are of ancient uſe in the Church, I agree; but <hi>Liturgy</hi> as <hi>Epiſcopacy primitive,</hi> was in nature clearly differ<g ref="char:EOLhyphen"/>ent from what they are now pleaded to be. Ancient <hi>Liturgies</hi> were not ſet and preſcribed Forms of publick worſhip: <hi>Smecty<g ref="char:EOLhyphen"/>mnus</hi> hath aſſerted,
+<note place="margin">Anſwer to the <hi>Remonſtrance.</hi> Vindication of the Anſwer, <hi>p.</hi> 14, 15, 16, 17 18, 19, 20, 21.</note> and well cleared it againſt the Remonſtrant, and that out of <hi>Justin Martyr, Tertullian, Auſtin</hi> the <hi>Cartha<g ref="char:EOLhyphen"/>ginian,</hi> and <hi>Milevitan Councils,</hi> That <hi>un ill the time of the Arrian and Pelagian Errors, there were no Set Forms of prayer in the Church;</hi> and then the liberty was only reſtrained, which hath been ſince deſtroyed; men being only bound to confer the prayers of their own compoſing, <hi>cum fratribus instructioribus;</hi> and Forms digeſted by the latter of theſe Councils, were impoſed no further than by a <hi>placuit ut preces quae probatae fuerint in concilio ab om<g ref="char:EOLhyphen"/>nibus celebre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r;</hi> and only enjoyned that the prayers of parti<g ref="char:EOLhyphen"/>cular Miniſters ſhould be approved by more prudent men; the original Liturgies of both Jew and Chriſtian, were plain <hi>Rubricks; Engliſh Directories</hi> for the method and order of preaching, read<g ref="char:EOLhyphen"/>ing, prayer, adminiſtrations of Sacraments, and publick worſhip: It is an eaſie matter to make a bravado and noiſe of the Liturgies of S. <hi>James, Baſil, Cyril, Chryſoſtom,</hi> whil'ſt none are produced and proved legitimate, if there be any not apparently fictitious, bring them forth to a Teſt or Standard, we will joyniſlue, and try the de<g ref="char:EOLhyphen"/>ſpiſed <hi>Directory,</hi> and extolled <hi>Service-bock,</hi> and freely conſent to retain that which beſt agreeth, and to reject the other; until then bears us not down, like Children with big words without cauſe; methinks it were hugely worth the enquiry, what Liturgy King <hi>Lucius</hi> received, when <hi>Faganus</hi> and <hi>Damianus</hi> converted his Subjects; the Church by them conſt tuted had ſetled publick worſhip. It is apparent that <hi>Eleu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herius</hi> the then Biſhop of <hi>Rome</hi> referred him to the Canon of Scripture for to frame all his conſti<g ref="char:EOLhyphen"/>tutions by, it would much fortifie our pretenders to Antiquity, to find out the Liturgy uſed in <hi>England</hi> before <hi>Auſtin</hi> the Monk; brought over his <hi>Roman Miſſal:</hi> Antiquity is a poor, whil'ſt no part of the Service-book as to its frame &amp; order, doth pretend higher than the time of Pope <hi>Damaſus,</hi> 376. after Chriſt, and the whole Fabrick is apparently of a much later date: I would de<g ref="char:EOLhyphen"/>ſire men may no longer be cheated with words; they who talk
+<pb facs="tcp:61483:5"/>or write for <hi>Epiſcopacy</hi> of <hi>Liturgy,</hi> let them declare the mean<g ref="char:EOLhyphen"/>ing and acceptation of their term themſelves have made ambigu<g ref="char:EOLhyphen"/>ous; for although I could willingly conſent unto a Set-form of publick worſhip, as <hi>convenient Crutches for Miniſters of weak abilities,</hi> who need no leſs Set-forms of Preaching, even compo<g ref="char:EOLhyphen"/>ſed Sermons, (for whom, finding Homilies, the conſtant Conco<g ref="char:EOLhyphen"/>mitant of Liturgies (in this ſenſe) I am apt to think they were at firſt prepared) yet I conceive this will better adviſe the Churches care to have more able Miniſters, who may not need them, than warrant the impoſing either of them on more able men, unto the depriving of the Church of the edifying gift of prayer or preaching; nor do all the Arguments yet produced, conclude for any ſuch preſcription, nor can they give the leaſt of ſatisfaction to a ſerious ſpirit, owning the antecedent, but de<g ref="char:EOLhyphen"/>nying the conſequence, as unjuſtly inferred to make a meer cla<g ref="char:EOLhyphen"/>mour in the world; againſt which, whether there be not Reaſon with a full anſwer to all the ſuppoſed advantages of ſuch an impo<g ref="char:EOLhyphen"/>ſition ſuggeſted by-our Antagoniſt, I refer thee to the conſideration of this enſuing Tract. Some <hi>Cynthius</hi> ſeems here to pluck me by the ear, and ſay, Sir, you run too faſt, and tell us nothing that is urged for Set-forms of prayer, is ſufficient to conclude the impo<g ref="char:EOLhyphen"/>ſing of the prefer bed Engliſh Service-book; whereas you are to conſider it is eſtabliſhed by Law, and calls for your obedience; which if you yield not, you are bound to produce your Exceptions by way of Apology, to anticipate the ſufferings which impend over your head. To this I briefly anſwer,</p>
+            <p>I know not what to underſtand by <hi>eſtabliſhed by Law;</hi> we have ſince the Reformation had as many different Service-books, as Soveraigns. The Book of Queen <hi>Elizabeth,</hi> two of King <hi>Edwards,</hi> one of Queen <hi>Elizabeths,</hi> one of King <hi>James,</hi> and one of King <hi>Charls</hi> the Firſt, (though not commanded, yet) uſed in <hi>England,</hi> pretended to be onely authe<g ref="char:EOLhyphen"/>rized by Act of Parliament; and that this was (under colour of Explanation) altered by Royal Authority, all that call to mind the Conference at <hi>Hampton-Court</hi> in 1603. and conſider King <hi>James</hi> his <hi>Proclamation, for conformity to, and practice of his Book, as the onely publick form of ſerving God, eſtabliſhed and allowed in this Realm;</hi> and that the Book received among us is greatly different from what it was eſtabliſhed, is ſuggeſted by the late <hi>Reaſons for Reformation in Worſhip;</hi> and cannot be detected
+<pb facs="tcp:61483:6"/>for want of a Sta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dard to which it ſhould be compared; I would thank that judicious Lawyer who in this caſe would reſolve me theſe two Queries.</p>
+            <p n="1">1. Ought not a Form, Method, or Order, enjoyned by a Law <hi>(<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b poena)</hi> to be uſed, and that <hi>excluſive,</hi> with a <hi>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne other</hi> to be enrolled; as the Standard to which on all ſuſpicion of varia<g ref="char:EOLhyphen"/>tion, men muſt have recourſe in order to their convictions; and for want of ſuch Standard, the Law be not voided by an impoſſi<g ref="char:EOLhyphen"/>bility of conviction?</p>
+            <p n="2">2. In caſe one Form, O der, or Method be eſtabliſhed by Act of Parliament; another by the Kings Commiſſion and Pro<g ref="char:EOLhyphen"/>clamation, as <hi>the onely Form eſtabliſh d and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llowed,</hi> which of them muſt be embraced and practiced, and in default, for which of them muſt we be convicted and puniſhed, if by the laſt we con<g ref="char:EOLhyphen"/>ceive our ſelves at preſent diſcharged by a power (His Majeſties De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laration) no way ſhort of what is pleaded for its eſtabliſh<g ref="char:EOLhyphen"/>ment; if by the firſt we conceive our ſelves diſcapacitated by that publick charge made by Royal Authority, which for want of the Standard we cannot diſcover.</p>
+            <p>Untill theſe be reſolved, we can eaſily ſee what is offered to us, and exerciſed by others; but know not what is eſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abliſhed by Law, againſt which we are not to offend: Nevertheleſſe to ſtay the cenſures of <hi>peeviſhneſſe and stubborneſſe</hi> caſt on us by paſſionate men, we humbly profeſſe our conſciences do interdict our uſe of the Common-prayer on three (as we judge them) weighty and important Grounds or Reaſons.</p>
+            <p n="1">1. <hi>The Common-prayer Book is capable, and ſo qualiſied, that it ought to be aboliſhed.</hi>
+            </p>
+            <p n="2">2. <hi>The Form and Order of the Service-book (uſed among us) is Superſtitious, and unſutable to Solemn Publick Worſhip.</hi>
+            </p>
+            <p n="3">3. <hi>The Common-prayer Book hath been expelled our Church by a lawful and just Authority, and ſtands excluded by Sa<g ref="char:EOLhyphen"/>cred Oaths, and a moſt publick National Solemn League and Co<g ref="char:EOLhyphen"/>venant.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> We cannot return unto, and receive again what is <hi>ca<g ref="char:EOLhyphen"/>pable, and ſo qualified, that it ought to be aboliſhed;</hi> for that we as Miniſters of the Goſpel, charged with the Method and Order of Divine Worſhip, are in our places and capacities bound to abo<g ref="char:EOLhyphen"/>liſh all things abominable for their unprofitableneſs and inexpe<g ref="char:EOLhyphen"/>diency; but in our places we can onely enforce ſuch abolition, by
+<pb facs="tcp:61483:6"/>declaring againſt, and not receiving, aſſenting to, or admitting as the ſtanding order of publick Adminiſtrations; that which in our conſciences we are convinced is ſo inconvenient, or otherwiſe qualified, that it ought to be aboliſhed; as the Jewiſh did, ſo the Romiſh Rites muſt loſe their dignity by non-ſubmiſſion to them.</p>
+            <p>That our Service-book <hi>may be aboliſhed without ſin,</hi> none can or will deny, whilſt the exceptions againſt it, corrections of it, Apologies for its faults and defects, with the confeſſions of ſuch who conteſt for it, do proclaim it an <hi>humane Conſtitution,</hi> ſubject to corruption and inconveniency; and thereupon alterable at hu<g ref="char:EOLhyphen"/>mane pleaſure.</p>
+            <p>Three things neceſſitating the Church to aboliſh what is hu<g ref="char:EOLhyphen"/>mane (though in it ſelf good) are written on our <hi>Liturgy</hi> in moſt legible Characters.</p>
+            <p>Firſt, <hi>The ſimilitude and ſymmetry of it unto the Popiſh S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>vice and Religion;</hi> wherein it is both <hi>mov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> minding us of thoſe ſuperſtitious dreams and fancies, which dictated the order, and at firſt occaſioned the uſe of the ſeveral parts thereof, (as the Sacra<g ref="char:EOLhyphen"/>ment of <hi>Pennance,</hi> Doctrine of <hi>Venial ſin,</hi> and <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieſtly Abſoluti<g ref="char:EOLhyphen"/>on,</hi> the ground of the <hi>Confeſſion, Miſreatur,</hi> and <hi>Abſolvtion;</hi> the miraculous efficacy of the words directing the <hi>Kyrie Eleyſon,</hi> with the three-fold ſin, <hi>Original, Venial,</hi> and <hi>Mortal,</hi> which directed it to <hi>Father, Son,</hi> and <hi>holy Ghoſt;</hi> the ſanctifying influence of the words of the <hi>Pater Noster,</hi> making it neceſſary to begin and end; nay, eſſential to every act of Devotion and duty of Religion; the miraculous power of particular Rogations, the Reaſon of the <hi>Letany,</hi> the hearing of the heavenly Quire, which is ſuggeſted as the occaſion of the <hi>Angelick Hymn,</hi> and ſo of other parts, which I can<g ref="char:EOLhyphen"/>not ſtand to mention;) but alſo <hi>movens,</hi> inclining, and apting us to receive, and again profeſſe that form of worſhip, with little va<g ref="char:EOLhyphen"/>riation or difficulty.</p>
+            <p>This ſimilitude and ſymmetry is apparent by theſe things.</p>
+            <p n="1">1. <hi>The original Extraction</hi> of it (was, and it cannot be de<g ref="char:EOLhyphen"/>nied) from the Romiſh Breviary, Ritual, Miſſal, and Pontifical,
+<note place="margin">
+                  <hi>Fox Acts and Mon.</hi> p. 1272. 1273, 1274, 1275.</note> into which it may be with eaſe again reſolved.</p>
+            <p n="2">2. By the <hi>order and ſeveral parts thereof,</hi> which muſt run unto Romiſh fancy for a rational ſoundation, the Word of God, and nature of the duty not dictating any.</p>
+            <pb facs="tcp:61483:7"/>
+            <p n="3">3. By the groundleſſe Inſurrection of the Rebels of <hi>Devon</hi> and <hi>Cornwal,</hi> on the introducing of it into the Engliſh Church witneſſed in the Expoſtulatory meſſage of King <hi>Edward</hi> the ſixth, in theſe words:</p>
+            <p>
+               <hi>As for the Service-book in Engliſh, it hath manifeſt Rea<g ref="char:EOLhyphen"/>ſons for it,
+<note place="margin">pag. 1189.</note> and yet p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rchance ſeeme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to you a new Service, and in<g ref="char:EOLhyphen"/>deed is none other but the old, the ſelf-ſame words in Engliſh which w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re in Latine, if the ſervice of the Church were good in Latine, it remaineth good in Engliſh; for nothing is alter'd but to ſpeak with knowledge what was ſpoken in ignorance.</hi>
+            </p>
+            <p n="4">4. The attractive influ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce it had on the Papiſts, who for ele<g ref="char:EOLhyphen"/>ven years in Queen <hi>Elizabeth</hi>'s time came to Church without any converſion to true Religion,
+<note place="margin">
+                  <hi>Abbot</hi> Biſhop of <hi>Canterbury</hi> in his <hi>Explica<g ref="char:EOLhyphen"/>tio illuſtrium quaeſtionum.</hi> c. 4. p. 112. <hi>Morton's</hi> Ap<g ref="char:EOLhyphen"/>peal, p. 46.</note> but on the conformity of the Engliſh to the Romiſh ſervice: on which ground Pope <hi>Plus</hi> the 4th. and <hi>Gregory</hi> the 13th. offered to confirm it, and the Fathers of <hi>Trent</hi> aſſured our Catholick Nobles, that the Pope might do it without any dammage to the Catholick Cauſe. And the Meſſen<g ref="char:EOLhyphen"/>gers from <hi>Rome</hi> entertained here by Secretary <hi>Walſingham,</hi> at their return, wondered their Lord the Pope was ſo ill adviſed, or at leaſt informed, as to Interdict a Prince, <hi>whoſe ſervice was ſo like his own,</hi> and cauſed the Bull againſt the Queen to be recalled.</p>
+            <p n="5">5.
+<note place="margin">
+                  <hi>Briſtow's</hi> Mo<g ref="char:EOLhyphen"/>tive 34.</note> The aſſurance <hi>Harding, Briſtow,</hi> and <hi>Carrier,</hi> thoſe ſe<g ref="char:EOLhyphen"/>ducing Jeſuites, gave themſelves, that they might yet convert <hi>England</hi> to the Catholick Church, whoſe Service and Ceremo<g ref="char:EOLhyphen"/>nies ſhe yet retained;
+<note place="margin">
+                  <hi>Confid.</hi> p. 45. ſect. 8, 9.</note> the l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of whom ſaith expreſly, <hi>The Eng<g ref="char:EOLhyphen"/>liſh Common-prayer and Catechiſm containe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h no point of Doctrine contrary to the antiquity of the Romiſh Service.</hi>
+            </p>
+            <p n="6">6. The Service was (and yet is) the Engine of Accommo<g ref="char:EOLhyphen"/>dation between <hi>Rome</hi> and <hi>England</hi> on the deſigned Spaniſh Match, unto which none was more potent than the ſimilitude and ſymmetry of the Engliſh to the Romiſh Service;
+<note place="margin">
+                  <hi>Cabala.</hi> Lord Keepers Letter to the Duke, <hi>p.</hi> 79.</note> of which, that the Court and Clergy of <hi>Spain</hi> might be convinced, the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Lincoln</hi> then Lord <hi>Keeper,</hi> cauſed the Engliſh Liturgy to be tranſlated into Spaniſh by a <hi>Franciſcan</hi> (ſeeming Prote<g ref="char:EOLhyphen"/>ſtant) and ſent it to the Duke of <hi>Buckingham</hi> (there reſident) to obviate the Exception,
+<note place="margin">
+                  <hi>Eccleſiaſtick policy,</hi> lib. 5. ſect. 28.</note> and facillitate the Enterpriſe.</p>
+            <p>This to ſome ſeemeth an Exception of no value: and I concede to the learned <hi>Hooker,</hi> that 'tis <hi>too hard to ſay, in nothing
+<pb facs="tcp:61483:7"/>we may follow Rome;</hi> for, <hi>in what they do as men,</hi> Nature will ne<g ref="char:EOLhyphen"/>ceſſitate; what as <hi>prudent men,</hi> Diſcretion will adviſe; what as <hi>Chriſtian men,</hi> Religion will conſtrain us to conform: But our ſtumble is, at what they do as <hi>Romiſh Babylon;</hi> for as ſuch, diſ<g ref="char:EOLhyphen"/>ordered and ſuperſtitious ſervice is derived from them: and the difference is vaſt between <hi>Scriptures, Sacraments,</hi> and <hi>Ministery,</hi> which muſt not, nor can be changed, becauſe they paſſed through a Romiſh Chanel; and <hi>human Constitutions of Method and Or<g ref="char:EOLhyphen"/>der,</hi> which ought ſo to differ from, as to ſpeak deteſtation of, what is Idolatrous, and determine an incapacity (if poſſible) of being thereinto again reſolved. The removal of the High Places did not more advance the Reformation, than the not-demoliſh<g ref="char:EOLhyphen"/>ing them did occaſion and facillitate: <hi>Iſrael</hi>'s backſliding in Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Sure I am, the Primitive Fathers, and our Proteſtant Wri<g ref="char:EOLhyphen"/>ters, apprehended God's mind to be, that His <hi>People avoid the Symbols, as well as abhor the Substance of Falſe-worſhip,</hi> and infer it from <hi>Exod.</hi> 23.13.20. <hi>Zech.</hi> 13.2. <hi>Deut.</hi> 7.15. <hi>Iſa.</hi> 30.22. 1 <hi>Theſſ.</hi> 5.22. <hi>Jud.</hi> 23. and interdicted in their Councells conformity to the Jews or Heathens in their Feſtivals,
+<note place="margin">Euſebius <hi>de<g ref="char:EOLhyphen"/>vita conſtant.</hi> lib. 3. cap. 17.</note> obſer<g ref="char:EOLhyphen"/>vation of <hi>Eaſter,</hi> Faſting on <hi>Sundays,</hi> Monuments of Martyrs, adorning their houſes with Bay-leaves and green Boughes, and bringing Wine and Cakes to the Church, and the like;
+<note place="margin">Concil. <hi>Cartha. Can.</hi> 5.14, 15. <hi>Bract.</hi> Can. 32.73. <hi>Con. Phi. Can.</hi> 27. <hi>De Corona mi<g ref="char:EOLhyphen"/>litum lib. de Idolatria. Auguſt. Con<g ref="char:EOLhyphen"/>feſſ.</hi> lib. 6. cap. 2 Confutation of the man of <hi>Cheſter, fol.</hi> 54.</note> againſt all which * <hi>Tertullian</hi> urged with much earneſtneſs our Argu<g ref="char:EOLhyphen"/>ments, as doth alſo <hi>Ambroſe</hi> to <hi>* Monica</hi> the mother of <hi>Au<g ref="char:EOLhyphen"/>stin,</hi> who are ſeconded by <hi>Calvin, Muſculus, Beza, Zanche, Pe<g ref="char:EOLhyphen"/>ter Martyr,</hi> our own <hi>Fulk, Jewel, Andrews, Sutliffe,</hi> and who not againſt the Papiſts in many things Rejected, and the Rejection thereof defended by this very Plea. And Biſhop <hi>Pilkington</hi> in our very caſe of the Common-prayer book confeſſeth, <hi>That in Ma<g ref="char:EOLhyphen"/>riage</hi> (which is leaſt offenſive) <hi>and many other things, we are too like unto the Papiſts, and that it is our fault generally that we dif<g ref="char:EOLhyphen"/>fer no more from them in all our Miniſtry.</hi> I wiſh we find men convinced of the Nature, and reſolved for the Duty of <hi>Seperation from Babylon and Antichriſt;</hi> of which, if they doubt, they may well plead for this grand prop of their uniting Fabrick, ſo ſuitable to what is catled <hi>Catholick Religion:</hi> but for us, we judge Sepa<g ref="char:EOLhyphen"/>ration not ſufficient unleſſe it proclaim Deteſtation, and reſolve union to be the reſult of Papiſts murning Proteſtants, and cannot
+<pb facs="tcp:61483:8"/>but endeavor to aboliſh what is like and ſuitable to their ſervice. But Secondly,</p>
+            <p>
+               <hi>The Scandal given by this Service-book doth conſtrain the abo<g ref="char:EOLhyphen"/>liſhing of it.</hi> That it hath been a ſtone of ſtumbling, and Rock of offence, unto the ſin of ſome, and ſufferings of others no ob<g ref="char:EOLhyphen"/>ſerving Proteſtant can poſſibly deny; and it hath been made moſt plainly legible by the troubles of <hi>Frankford;</hi> conſtant complaints of men fearing God in the times of Queen <hi>Elizabeth</hi> and King <hi>James</hi> at the Conference at <hi>Hampton</hi> Court,
+<note place="margin">
+                  <hi>Anno</hi> 1603.</note> the Corrections pro<g ref="char:EOLhyphen"/>miſed (though not performed) the Apologies and Challenges of the ſilenced ſuſpended Miniſters of <hi>Lincoln, Devon,</hi> and <hi>Corn<g ref="char:EOLhyphen"/>wal,</hi> the High Commiſſion and Viſitation Cenſures, the earneſt Petitions, and importunate Remonſtrances from <hi>London</hi> and all parts of <hi>England,</hi> the Commotions of <hi>Scotland,</hi> ſinful ſepa<g ref="char:EOLhyphen"/>rations from the Church of many weak men hereat ſcandalized; obduracy aad oſtentation of the Papiſts, complaints of the Re<g ref="char:EOLhyphen"/>formed Churches, and finally by the concurrent judgment of the lare
+<note n="*" place="margin">Preface to the <hi>Directory.</hi>
+               </note> Aſſembly of Divines, and Determination of Lords and Commons in Parliament Aſſembled on this ground, and conſi<g ref="char:EOLhyphen"/>deration, among others laying it aſide by their
+<note n="*" place="margin">Ordinance for taking a<g ref="char:EOLhyphen"/>way the <hi>Com<g ref="char:EOLhyphen"/>mon-prayer book Jan.</hi> 3. 1644.</note> Authority, unto the unſpeakable joy and content of many pious and prudent men.</p>
+            <p>That offences and ſtones of ſtumbling, occaſions of ſin or ru<g ref="char:EOLhyphen"/>ine, ought to be taken out of the way and aboliſhed, none that know the word of Chriſt, <hi>Mat.</hi> 18.6, 7, 8, 9. the warineſs and warnings of the Apoſtle, who would rather never eat fieſh, than offend the weak, 1 <hi>Cor.</hi> 8.9, 10, 11, 12, 13. <hi>Rom.</hi> 14. or the worth of immortal ſouls, can or will deny.</p>
+            <p>Thirdly, The ſcandal &amp; ſymmetry of the Service-book doth not ſo much ſatisfie us, and ſtir us up unto the deſire of aboliſhing the ſame, as to ſee it ſo <hi>ſhamefully Idolized,</hi> by not only the Vulgar, but ſuch as affect to be accounted <hi>the Fathers of the Church:</hi> in which reſpect it calls as loudly for a zealous <hi>Hezekiah</hi> to make it a <hi>Nehuſhtan,</hi> and break it in pieces, as ever he did the Brazen Serpent.</p>
+            <p>This <hi>Idolizing</hi> of the Service-book is grown moſt obvious and common, having been ſuper-ſuperlatively expreſſed by the ap<g ref="char:EOLhyphen"/>plauſe of it, acclamations for it, as the <hi>unum neceſſarium</hi> of ſal<g ref="char:EOLhyphen"/>vation, <hi>only way</hi> of Gods worſhip, and <hi>all</hi> of piety; unto the
+<pb facs="tcp:61483:8"/>thruſting out Preaching, and planting in the Church a Reading Miniſtry, appropriating to it the effect, and attributing to it the honor of all Gods Ordinances, palliating all prophaneneſs and neglect of piety by the bare uſe of the Service-Book, and zealouſly perſecuting unto bonds (and death if poſſible) all that decline to uſe it, thinking they do God good ſervice: I have been often a<g ref="char:EOLhyphen"/>ſtoniſhed at the high devotion to it,
+<note place="margin">D. John Gau<g ref="char:EOLhyphen"/>den.</note> and commendation of it by meaner perſons; but the conſiderations of our Antagoniſt hath ſcrued it to that heighth, that if it preſage and provoke not its utter extirpation, I cannot but conceive men want ſenſe or zeal.</p>
+            <p>In his florid expreſſions he thus extolls, magnifieth our Service book unto that heighth, that I tremble to tranſcribe his terms.</p>
+            <p>
+               <hi>This Liturgy is the most excellent means to preſerve the truth of Chriſtian and Reformed Religion,
+<note place="margin">Conſiderations of the <hi>Liturgy. pag.</hi> 10, 11, 12, 42, 43.</note> it is neceſſary for the holy harmony and ſweet communiou of all Chriſtians, mightily condu<g ref="char:EOLhyphen"/>ceth to the ſalvation and edification of the meaner ſort of people; the Chriſtian Religion cannot eaſily be planted, nor thrive among the Countrey or common people without a ſetled constant Liturgy impoſed and uſed; nor can the Reformed part of Religion be preſerved in</hi> England <hi>to any flouriſhing degree, without the Liturgy be maintain<g ref="char:EOLhyphen"/>ed, as the firm and moſt impregnable Bulwark againſt Romiſh Superſtition; upon the Liturgy dependeth the peace and unity of this Church, as much as the Houſe did on its Pillars which</hi> Sampſon <hi>pulled down: The Liturgy is the only bond of Loyalty, Love, and Duty to Soveraign Majeſty, the only Baſis of Glory, Charity, <g ref="char:V">Ʋ</g>nity, Safety, Reformation, and true Religion; that in the varia<g ref="char:EOLhyphen"/>tion of the Liturgy,</hi> England <hi>muſt ſhake hands with all theſe.</hi> And much more to this purpoſe; in which, if he ſay true, we muſt caſt off <hi>Confeſſions of Faith,</hi> ceaſe from <hi>Catechiſing,</hi> ſilence <hi>Preaching,</hi> ſuſpend <hi>Statutes,</hi> ſlight <hi>Sacraments,</hi> receive and read the <hi>Service<g ref="char:EOLhyphen"/>book</hi> the Ark of Gods preſence, aſſurance of Salvation, all in all of Piety and Morality; Almighty inſtrument to convince of ſin, convert to God, conjoyn to the Church, confirm againſt Error, and conduct to Glory. It is, ſure, time and reaſon this holy Book be placed on the Altar, handled and opened by the Prieſt, only, with no leſs reverence than the Jews <hi>Thorah,</hi> or Papiſts Maſs-Book; or rather caſt out of the Church with indignation.</p>
+            <p>But our Second Exception againſt the Service-Book on
+<pb facs="tcp:61483:9"/>which we pray we may not be preſſed to the uſe of it, is this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>The form and onder of this Liturgy is Superſtitious,
+<note place="margin">Second Exce<g ref="char:EOLhyphen"/>ption againſt the <hi>Liturgy.</hi>
+                  </note> or unſutable to Publick Solemn Worſhip.</hi>
+            </p>
+            <p>I ſhall not now meddle with the matter of this Book, which by its ambiguous phraſe is obnoxious to the Exceptions taken to it: Be that good; yet, <hi>forma dat eſſentiam,</hi> the form and order muſt conſtitute it <hi>ſolemn publick worſhip:</hi> And in that I conceive ſomething will be found <hi>Superſtitious,</hi> an evident <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Will-worſhip, humane invention, without, beyond divine pre<g ref="char:EOLhyphen"/>ſcription:
+<note place="margin">His <hi>Spi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itual Houſe pag.</hi> 144.</note> I muſt tell Mr. <hi>Masterſon,</hi> who affects that term, it ſeems to be a plain <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an over-earneſt, importunate, unwarrantable approach to God, which can expect no other An<g ref="char:EOLhyphen"/>ſwer, than, <hi>Who hath required theſe things at your hand?</hi> not di<g ref="char:EOLhyphen"/>rected by the Word, or dictated by the nature of a duty, but foun<g ref="char:EOLhyphen"/>ded in the ſuperſtitious fancies of men: Of which nature I judge theſe particulars.</p>
+            <p n="1">1. <hi>The whole extraordinary Service,</hi> Epiſtles, Goſpels, Collects and Leſſons, appointed for <hi>Wedneſdays, Fridays, Lent,</hi> &amp; other Holy-days, whichmaketh a difference in days, and gives them ſome dignity a<g ref="char:EOLhyphen"/>bove others, and ſets them in a parity with the Lords day (ſanctifi'd by God our Saviour) and that in honor of the Saints, or memory of the parts of our Redemption, which abſtractedly conſidered are myſteries, not mercies) and this without any appointment of God,
+<note place="margin">See my <hi>Faſt<g ref="char:EOLhyphen"/>ning St.</hi> Peters <hi>Fetters. Sect.</hi> 3. <hi>pag.</hi> 55.</note> who only can make Time holy, or Authority given (by any legible Commiſſion) to the Church, and contrary to the Word of God, <hi>Gal.</hi> 4.10. <hi>Col.</hi> 2.16. and muſt therefore be a Superſtition.</p>
+            <p n="2">2. <hi>In the frequent impertinent uſe of the Lords prayer:</hi> which is a <hi>Prayer</hi> when time prevents, or abruptly contracts our own ex<g ref="char:EOLhyphen"/>preſſions, or to which as a <hi>puttern</hi> our Prayes muſt conform: but will not therefore be neceſſary to be uſed in the beginning, middle, and end of Prayers,
+<note place="margin">
+                  <hi>Eccl ſpo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> lib. 5. Sect. 34. p. 255, 256.</note> (as the Reverend <hi>Hooker</hi> doth ſuggeſt) nor is eſſential to every Act of Devotion, to which a fancy of a ſanctifying power of the words, not Chriſts preſcription doth direct it, rendring it a vain, ſenſleſs repetition, and ſelf-deviſed Worſhip.</p>
+            <p n="3">3. <hi>The Doxology,</hi> a good compendious Confeſſion of the Deity and Eternity of the three perſons; yet ungroundedly added to the end of every Pſalm, unleſs on ſenſe of ſome Sacred Nature and effi<g ref="char:EOLhyphen"/>cacy of the words; without which I cannot acquit it from addition to the Scriptures.</p>
+            <pb facs="tcp:61483:9"/>
+            <p n="4">4. <hi>The dignifying of the Goſpel,</hi> by the ſpecialty of Miniſter, Place, Geſture, and popular Acclamations, <hi>above the Epiſtles,</hi> though containing the ſame matter, and having the ſame Au<g ref="char:EOLhyphen"/>thor. One Scripture may be more uſeful, but none more hono<g ref="char:EOLhyphen"/>rable than others of the ſame Nature and Authority; and I can have no confidence of their courage in fighting for the Goſpel, who are too cold to burn for the Epiſtles.</p>
+            <p n="5">5. <hi>The Ceremonies hereto affixed,</hi>
+               <note place="margin">The Engliſh Popiſh Cere<g ref="char:EOLhyphen"/>monies, <hi>part.</hi> 3. <hi>cap.</hi> 3. <hi>pag.</hi> 124.</note> (which have been argued to be ſuperſtitious beyond my ability to anſwer) being purely Re<g ref="char:EOLhyphen"/>ligious (not Natural or Civil) Rites, uſed to edifie by their ſignifi<g ref="char:EOLhyphen"/>cancy (the peculiar work of a Sacrament) and ſo opening a dore for others no leſs ſignificant but wanting Chriſt his Inſtitution' (which the Church is not commiſſioned to ſtamp on any) than are the <hi>Croſs in Baptiſm, kneeling at Sacrament, and the Surpli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e:</hi> of which laſt, I ſhould have granted to Du <hi>Moulin,</hi> that if the King command<g ref="char:EOLhyphen"/>ed me to preach in a fools coat, I would do ſo rather than not preach; yet cannot admit the <hi>Surplice:</hi> for I think it is one thing to wear a garment the token of Royal diſpleaſure and deriſion, (wherein Miniſters muſt be <hi>wonders and fools</hi> to gain Souls,) and it is another thing to wear a Garment piouſly, preſcribed as a piece of Religion, part of Worſhip, a peculiar holineſs in acceſs to God, as were the Prieſts Garments under the Law, and as are the Popiſh Veſtments, of which number ours makes one.</p>
+            <p>As in theſe things the Liturgy ſeems ſuperſtitious, in other things it is unſuitable to ſolemn publick worſhip, and that in all the parts of it.</p>
+            <p>
+               <hi>In the reading of the Scriptures</hi> it leaps and skips much, thruſts out ſome, and brings in <hi>Apocrypha;</hi> cuts, and parcels, and keeps no ſerious Soul-edifying order, which is indeed pretended unto in the preface to it.</p>
+            <p>
+               <hi>The Creed and Ten Commandments,</hi> (profitable compendi<g ref="char:EOLhyphen"/>ums of faith and obedience,) the profeſſion of which is a conve<g ref="char:EOLhyphen"/>nient and neceſſary piece of order, unto the diſcrimination of ſuch as
+<note n="*" place="margin">Turks and Infidels who converſed a<g ref="char:EOLhyphen"/>mong, but ought not to communicate in Chriſtian Churches.</note> unduly intrude into the Aſſemblies of Chriſtians; and direction of ſome adminiſtrations, as Baptiſm, and Confirmati<g ref="char:EOLhyphen"/>on; but are made a poſitive conſtant part of publick ſolemn Wor<g ref="char:EOLhyphen"/>ſhip, on what good ground I confeſs I am not convinced.</p>
+            <p>
+               <hi>In the Sacrament of Baptiſm,</hi> the foederal holineſſe, and Parents intereſt in the Covenant, (the onely ground of applying
+<pb facs="tcp:61483:10"/>that Ordinance to Infants) is obliterated and oppoſed by the Per<g ref="char:EOLhyphen"/>ſonal ſtipulation uſed by adult perſons, and here by appointed to be done by Deputies (God fathers and Godmothers) no way conſtitu<g ref="char:EOLhyphen"/>ted by the Child, commiſſioned by the Lord, or called for by the form of the Covenant ſealed in Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiſm; unto the great advantage of the Antipoedobaptiſts. And (notwithſtanding the Canonical Comment upon it) the making the ſign of the Croſſe is made the formal act of incorporation into the Church, made at the ſaying of thoſe words,
+<note place="margin">
+                  <hi>Canon.</hi> 1603. <hi>Can.</hi> 30.</note> 
+               <hi>We receive this Child into the Congregation of Chriſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> flock, and do ſign it, &amp;c.</hi> as if this were not done by the very appli<g ref="char:EOLhyphen"/>cation of the Sacrament, and Baptiſmal act.</p>
+            <p>
+               <hi>Confirmation</hi> (the primitive courſe of admitting adult perſons to the Lords Table) is unduly applyed to children in an <hi>Infant ſtate,</hi> and that as an act of ſolemn worſhip, rather than Church order, and as an Exorciſm or <hi>Spell,</hi> therefore declared to be applied unto children <hi>at ſuch age as they begin to be in danger of falling into ſin,</hi> though not capable of making any moral improvement and re<g ref="char:EOLhyphen"/>flection thereof. I might paſſe through every part of this Service, and ſhew its diſſonancy to Solemn worſhip, but I muſt not thus much enlarge; I ſhall therefore only take a view of its ſutableneſſe to ſolemn publick Prayer, (which it mainly intends) by compa<g ref="char:EOLhyphen"/>ring it with this general deſcription of ſolemn publick Prayer, whereby it differs from perſonal and ejaculatory Prayer.</p>
+            <p>Solemn publick Prayer <hi>is a ſerious, compoſed, and at once making known to God, the deſires of the Church, by expreſſions ſutable to their preſent occaſion openly uttered by the Miniſter, enforced and conclu<g ref="char:EOLhyphen"/>ded by the peoples Amen.</hi>
+            </p>
+            <p>Let this deſcription be admitted (as I think it cannot reaſonably he denied as the Square &amp; Teſt of a wel-ordered ſet-form of Pray<g ref="char:EOLhyphen"/>ers, and it reſolved into theſe Rules will decide our Queſtion.</p>
+            <p n="1">1. <hi>The occaſions of the Church muſt dictate their deſires:</hi> Theſe be variable, and conclude for variation of expreſſion, and againſt im<g ref="char:EOLhyphen"/>poſed ſet-forms, which (however they may do as to the general and common <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſires of a Chriſtian, yet) cannot poſſibly fit all par<g ref="char:EOLhyphen"/>ticular occurrences; and therefore leave ſuch as adhere to them in very frequent ſtraits, and conſtrain new compoſures; as in the caſe of the 5th. of <hi>November,</hi> and now the 30th, of <hi>January,</hi> and 29th. of <hi>May:</hi> In this caſe we know the Common-prayer books defect is rendred ridiculous, by the famed than giving for deliverance from Bull-goring.</p>
+            <pb facs="tcp:61483:10" rendition="simple:additions"/>
+            <p n="2">2. <hi>The expreſſions of the Churches deſires muſt ſuit the occaſions which dictate them:</hi> Be it Confeſſion of ſin, Supplication, Imprecation de-Precation, or Thankſgiving; General for the Church, and common ſtate of a Chriſtian; or Special, in reference to a particular Duty, Ordi<g ref="char:EOLhyphen"/>nance, or Condition, for Divine aſſiſtance in, efficacy or acceptance of any Diſpenſation or Miniſtration: How fitly <hi>the Confeſſion and Abſo<g ref="char:EOLhyphen"/>lution;</hi> (wherein though a General (yet kinde of Venial) unworthi<g ref="char:EOLhyphen"/>neſs is acknowledged, and acbeptance by an Authoritative Supplica<g ref="char:EOLhyphen"/>tion, and Miniſterial Abſolution, is prayed, more ſutably to the Po<g ref="char:EOLhyphen"/>piſh penitential order, than a preparitive ſupplication, (in which unfitneſs ought to be bewailed, ſubſequent duties expreſſed, and aſ<g ref="char:EOLhyphen"/>ſiſtance in them deſired,) will ſquare with this Rule, let wiſe men judge, and likewiſe compare the ſubſequent order of Prayer.</p>
+            <p n="3">3. <hi>The deſires of the Church muſt be expreſſed ſeriouſly and compo<g ref="char:EOLhyphen"/>ſedly;</hi> The whold man ſequeſtred from all other acts and buſineſſe, ſet and intent with all ſeriouſneſs, to mention them before God in a fixed poſſture of body and mind, without unneceſſary variation of place, or geſture, from Desk to Table, now kneeling, anon ſtand<g ref="char:EOLhyphen"/>ing, and therefore tranſient ſalutations, affectionate friendly Chri<g ref="char:EOLhyphen"/>ſtian wiſhes, quickning verſicles, deſultory ſhort options, by leaps and ſtarts, which may beſeem Ejaculatory, cannot ſquare with the more ſerious and compoſed frame of ſolemn Prayer.</p>
+            <p n="4">4. <hi>Theſe expreſſions must be openly uttered by the Miniſter, the People attending the ſame in ſil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce, that on due apprehenſion they may give their aſſent, and enforce it with their Amen:</hi> for the Mi<g ref="char:EOLhyphen"/>niſter is their mouth to God, and <hi>Amen</hi> is the part and onely part that good order, and Gods word, doth appoint the people in their Aſſembly, and then their popular Reſponds, concurrent Acclama<g ref="char:EOLhyphen"/>tions, the peoples Rogations, ſupplicative or deprecative Options on the Miniſters rehearſal of Mercy, Miſery, or Duties, do ſquare better with the confuſed vulgar clamors condemned in the Heathen, than chains ſolemn publick Prayer.</p>
+            <p n="5">5. <hi>Theſe expreſſions muſt be uttered at once,</hi> in a ſet and continued diſcourſe, without interruptions by intermingled duties, unneceſſary ſtops, abruptions, ſalutations, verſicles, reſponds, abbreviations, pauſes, and poſtings on again, with a <hi>Let us pray,</hi> when nothing but prayer is in hand; all which do better ſute the ſacred phrenſie of the fanatick Heathen Prieſts, in their Idol and fantaſtique ſervice and devotion, than that ſolemn Worſhip of God, which ought to be
+<pb facs="tcp:61483:11"/>the reſult of the ſpirit of a ſound mind. On conſideration of this un<g ref="char:EOLhyphen"/>ſutableneſs to ſolemn publick prayer, I ſhould have told the learned <hi>Hooker,</hi> That though God, as a great God, knoweth our wants, and is more gracious than to make His Anſwer depend on the artificial order and method or frame of our prayers; yet when in the ſight of men weſpeak with God after the manner of men,
+<note place="margin">
+                  <hi>Eccleſiaſtick po<g ref="char:EOLhyphen"/>lity,</hi> lib. 5. ſect. 34. pag. 253.</note> it is our duty to ſpeak in that g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve, ſerious, and compoſed order, that may beſpeak us men of ſound minds, and ſo ſenſible of the nature of the Duty, and Majeſty of God worſhiped in it, that our Rudeneſſe may not engender Irreverence, and expoſe our God and His Service to the ſcorn of men.</p>
+            <p>Nor is it an argument of any force that our <hi>firſt Reformers re<g ref="char:EOLhyphen"/>joyced in this Service, and the Non-conformiſts themſelves uſed it.</hi> For we muſt not be acted by Example, but Rule, and conceive our caſe different from the one and the other.</p>
+            <p>To the firſt, the <hi>Infancy of Reformation</hi> might rejoyce in, and grow up, under that order of Divine Service, which the <hi>adult eſtate</hi> thereof muſt caſt off; becauſe ſome of the Martyrs rejoyced in ſome broken pieces and rude Tranſlations of the Scripture, muſt we there<g ref="char:EOLhyphen"/>fore be therewith contented, and not correct them? We our ſelves at the firſt comming out of Popery, ſhould have thought a Bohemian Cup at Sacrament, or a Maſſe in Engliſh, to be a very high attain<g ref="char:EOLhyphen"/>ment, not knowing things more excellent; but when enlightned, muſt not therein acquieſce. <hi>Calvin</hi> wrote to the Church at <hi>Franckford,</hi> that <hi>if godly Religion had flouriſhed till that day, there ought to have been an order of Service better corrected, and many things clean taken away.</hi> And ſhall we who have enjoyed true Religion more than 80 years ſince that time, yet continue and contend for that Service-book, as if aſhamed to give place to better things?</p>
+            <p>We muſt indeed confeſſe, the <hi>Non-conformiſts</hi> uſed ſome parts of this Service, but we humbly conceive our caſe is different from theirs; they had been educated under, and inſenſibly yoaked with it, and drawn to ſubſcribe a promiſe to uſe it, and <hi>None other;</hi> by reaſon whereof they (groaning under it as their burden) were to conſider, how to obtain a Regular Releaſe from the corruptions, which, by reaſon of the <hi>peace</hi> of the Church, <hi>credit</hi> of their Mi<g ref="char:EOLhyphen"/>niſtry, and <hi>ſidelity</hi> (as far as might be) to their Promiſe, prudence did forbid to caſt off with violence; wherein yet there wanted not ſome witneſſes againſt it: But our caſe is to take on us
+<pb facs="tcp:61483:11"/>(not caſt off) the Service-book, on juſt grounds, and by law<g ref="char:EOLhyphen"/>ful Authority laid aſide; to which we generally were not en<g ref="char:EOLhyphen"/>gaged, wherein we may well be warned by the burden of our Progenitors, and have reaſon to look before we leap; the rather, becauſe we are under a ſacred Oath, which will duly, if not direct<g ref="char:EOLhyphen"/>ly, bind againſt it. And this leads me to our third Reaſon, for not receiving and uſing the Book of Common-prayer, which is this:</p>
+            <p>
+               <hi>The Common-prayer book hath been expelled by a lawful Au<g ref="char:EOLhyphen"/>thority, and stands excluded by a moſt publick, National,
+<note place="margin">Third Excep<g ref="char:EOLhyphen"/>tion to the <hi>Li<g ref="char:EOLhyphen"/>turgy.</hi>
+                  </note> ſolemn League and Covenant.</hi>
+            </p>
+            <p>That the ſolemn League and Covenant is juſt and lawful in its <hi>Matter,</hi> and publick and National for its <hi>Quality,</hi> I have de<g ref="char:EOLhyphen"/>monſtrated in my <hi>Faſtring St. Peters Fetters.</hi> Its poſitive excluſion of this Service-book will be evident on theſe Conſiderations.</p>
+            <p n="1">1. Every of us ſtand obliged <hi>in Sincerity, Reality, and Conſtan<g ref="char:EOLhyphen"/>cy, to endeavour Reformation of Religion in</hi> England <hi>in Worſhip, according to Gods Word, and the Example of the beſt Reformed Churches:</hi> But the Word of God allows not, nay, it condemns an order of Service which is ſymbolical to Idol-worſhip, ſuper<g ref="char:EOLhyphen"/>ſtitious, and unſutable to ſolemn publick Worſhip; and no Re<g ref="char:EOLhyphen"/>formed Church hath received and uſed our Service-book. Not uſing Corruption is the leaſt act of our Endeavour for Reforma<g ref="char:EOLhyphen"/>tion that we can perform.</p>
+            <p n="2">2. We are obliged <hi>to endeavor to bring the Churches of God in the three Kingdoms, to the neareſt conjunction and uniformity in Worſhip:</hi> And that muſt be, by bringing <hi>Scotland</hi> to receive our Liturgy, which muſt be done by convincing them of its con<g ref="char:EOLhyphen"/>ſonancy to Gods Word, and conformity to the beſt Reformed Churches, and that before their forme of worſhip we have ſworn to preſerve (if in this point any be better than themſelves) for <hi>bellum Epiſcopale</hi> hath already proved too feeble an Argument: or by conſidering their <hi>Directory,</hi> and getting it eſtabliſhed in the two Kingdoms, unleſs the Word of God, and Reformed Churches, can point us to a <hi>Medium</hi> of ſome purer way of Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p n="3">3.
+<note place="margin">Preface to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Directory.</hi>
+               </note> Though the <hi>Directory</hi> was not directly and explicitely Co<g ref="char:EOLhyphen"/>venanted, yet the Aſſembly of Divines adviſed, the Parliament ordained, and Miniſters of moſt Counties of <hi>England</hi> received and atteſted it in purſuance of their Covenant; <hi>as moſt agreeable
+<pb facs="tcp:61483:12"/>to the Word of God, and example of the beſt Reformed Churches;</hi> and the Kings Majeſty hath graciouſly ſworn to <hi>uſe</hi> it in His Royal Fa<g ref="char:EOLhyphen"/>mily, <hi>and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the ſame principle give his Royal aſſent to the injunctions for it, paſſed, or to be paſſed, and endeavour to establiſh it in all his Dominions.</hi> Now, <hi>Lex currit cum praxi,</hi> and Oaths are well inter<g ref="char:EOLhyphen"/>preted by concomitant and ſubſequent actions: I think it worth the ſerious enquiry of ſuch who pretend and purſue <hi>a correction of the Service-book,</hi> whether the <hi>Directory</hi> be not according to the Word of God, and example of the beſt Reformed Churches? and how far the <hi>Covenant b nds</hi> unto it? leſt by a correction our King and Kingdom be plunged under a God-provoking, Land-deſtroy<g ref="char:EOLhyphen"/>ing perjury. For ſure I am, the <hi>Directory</hi> and <hi>Service-book</hi> (though amended in moſt things) cannot conſiſt; and therefore we muſt be reſolved in <hi>this</hi> before we receive <hi>that</hi> (when ſomething refined) we may ſuffer, we muſt not ſin.</p>
+            <p>But here Captain <hi>George Maſterſon</hi> (that <hi>Morpheus</hi> of our Ci<g ref="char:EOLhyphen"/>ty,
+<note place="margin">A Captain in the Church<g ref="char:EOLhyphen"/>regiment for the Common<g ref="char:EOLhyphen"/>wealth Ruin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, who gave in their Enſign, <hi>The Law and the Testimony</hi> for their Mot<g ref="char:EOLhyphen"/>to.</note> wanting nothing but an <hi>inculca me tanquam ſalem inſipidum,</hi> to make him the <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebolius</hi> of our age, having turned his Belt into a Girdle, and Buff into a Canonical Coat, relinquiſhed the Law and the Teſtimony to run to the Common-prayer Book, unto whoſe plea, borrowed from the Learned <hi>Hooker,</hi> theſe Exceptions are framed biddeth a Stand to my March; and tells us in Anſwer to our Covenant, <hi>Herod and the Jews lying in wait for Paul ſware:</hi> That is true, and if he will make good his Inference of the Cove<g ref="char:EOLhyphen"/>nant, I will promiſe him to ſave the Hangman the labour and burn it, and what I have written for it with my own hands; in which if he fail,
+<note place="margin">See his <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>tual Houſe.</hi> p. 130.</note> he muſt needs be found wicked and fallacious, but that is not ſtrange to him: therefore,</p>
+            <p>He tells us, <hi>Lawful Authority is eſſential to make an Oath obli<g ref="char:EOLhyphen"/>ging;</hi> but by his leave, though it be to make an Oath <hi>lawful,</hi> I deny it to be eſſential to make it obliging. I believe he d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eams every unlawful Oath void, but Biſhop <hi>Sanderſon</hi> will teach him better Divinity: But that his Bowe may not break, (which could never hold to ſhoot one forcible Shaft) he addes another Para<g ref="char:EOLhyphen"/>dox, <hi>To de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Covenant wanted lawful Authority is treaſon:</hi> He lives indeed near the <hi>Inn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Court,</hi> and hath converſed much in High Courts of Juſtice, and may bleſſe God for a gracious Prince that he is not as ſenſible of <hi>Treaſon</hi> as his brother <hi>Peters:</hi> Yet I ſhall make bold to tell him, I have deni'd it, and do deny it,
+<pb facs="tcp:61483:12"/>and yet fear not to be indicted for <hi>Treaſon,</hi> whilſt I have the Au<g ref="char:EOLhyphen"/>thority of his late &amp; preſent Majeſty owning them, who enjoyned the Covenant, <hi>a Parliament,</hi> til his Patron <hi>Bradſhaw</hi> became <hi>Preſi<g ref="char:EOLhyphen"/>de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> I muſt be better informed in <hi>England's</hi> Conſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utions, if <hi>Lords and Commons</hi> ſitting in Parliament are not a lawful &amp; juſt (though not a full and compleat) Authority, to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Orders and Ordinances of which the people owe ſubjection, in which my obſervation of daily obedience, the non-contradiction of the Learned in the Law, and the Act for their Continuance (making ſober and judicious men to doubt of their yet exiſtence, though the preſent Aſpect of the Nation cannot bear it doth very much confirm me; and yet I would have him know, I think I have, and ſhall ap<g ref="char:EOLhyphen"/>prove my ſelf, a much more loyal Subject to his Maieſty than himſelf, who not onely rejoyced in the death of our late mur<g ref="char:EOLhyphen"/>thered Soveraign, but blaſphemoufly triumphed over his moſt Sacred Majeſty in the day of His diſtreſs at <hi>Worcester,</hi> in theſe and the like terms: <hi>The enemy did and might rationally expect,
+<note place="margin">See his conſi<g ref="char:EOLhyphen"/>dence in man, preached the laſt day of the ſixth Month 1651. dedica<g ref="char:EOLhyphen"/>ted to <hi>John Bradſhaw.</hi> p. 16, 17.</note> that if he could ſet his foot, his wearied foot, on Engliſh ground, his ſtrength would take root downward, and bring forth fruit up<g ref="char:EOLhyphen"/>ward, it could not but be expected on all hands, that the further he rolled, the greater ſtrength he would gather: Yet behold, admi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e God, though at his entrance he leave our Army fourſcore miles in his Rear, their fleſh wearied, and ſpiri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> almoſt languiſhing through the conti<g ref="char:EOLhyphen"/>nued difficulties they met with in a ſtrange Land; though he appear in a Countrey very fond of him, though he march with an Idol in the head of his Army, the name of a King, to which the generality of this Nation are very ſuperſtitious, too ready to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow down and ſub<g ref="char:EOLhyphen"/>mit their necks to a Tyrants foot; yet behold his ſtrength is at a stand, much about a ſcantling as it was when he fled out of</hi> Scot<g ref="char:EOLhyphen"/>land. <hi>Let us remember</hi> Newbery, <hi>and</hi> Marſton, <hi>and</hi> Naſeby; <hi>re<g ref="char:EOLhyphen"/>member</hi> Dunbar, <hi>and</hi> Fife, <hi>and</hi> Sterling. Is not this a moſt faith<g ref="char:EOLhyphen"/>ful Subject and judicious man, to charge Treaſon on all ſuch, as eſteem the Two Houſes of Parliament a lawful Authority! Yet,</p>
+            <p>This Authority was that which expelled the Liturgy, and re<g ref="char:EOLhyphen"/>ceived to their Ordinance for that purpoſe ſo much of aſſent from his late and preſent Majeſty, that makes me ſure it amounts in equity and conſcience (if not by the punctilioes of the Law) to a full and compleat Authority, eſpecially conſidering it to be enforced by the Emphaſis of an Oath.</p>
+            <pb facs="tcp:61483:13"/>
+            <p>Courteous Reader, I will hold thee no longer, but beg thy ex<g ref="char:EOLhyphen"/>cuſe for this too wide a Portal for the Authors more compen<g ref="char:EOLhyphen"/>dious Fabrick, which hath been framed to fence off the force and fury of paſſionate and cenſorious men, who think nothing but peeviſhneſs with-holds from uſing the Common-ſervice book: That the one and the other may inform, convince, and confirm, is the hearty prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Thine and the Churches Servant, ſtriving for the purity, plain<g ref="char:EOLhyphen"/>neſs, and ſimplicity of Goſpel-Worſhip,</hi> ZACH. CROFTON.</signed>
+               <dateline>From my Study at <hi>Gravel<g ref="char:EOLhyphen"/>lane</hi> in <hi>Houndſditch Lon<g ref="char:EOLhyphen"/>don,</hi> 
+                  <date>
+                     <hi>Jan.</hi> 26. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61483:13"/>
+            <head>Dr. Gauden's <hi>LIT<g ref="char:V">Ʋ</g>RGICAL CONSIDERATIONS</hi> CONSIDERED.</head>
+            <div type="preface">
+               <head>The <hi>PREFACE.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Aphor. </seg>1</label> 
+                     <seg rend="decorInit">H</seg>Ippocrates</hi> tells us, That in the cure of a ſick per<g ref="char:EOLhyphen"/>ſon, as the Phyſician muſt do his part, ſo the ſick perſon muſt do his part, and the
+<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which <hi>Liebantius,</hi> in his <hi>Scholia</hi> in<g ref="char:EOLhyphen"/>terprets Apo<g ref="char:EOLhyphen"/>thecarires and Chirurgions, &amp;c.</note> Aſ<g ref="char:EOLhyphen"/>ſiſtants to the phyſician muſt do their part, elſe the cure may be hindered. How long this poor Church hath lain ſick and languiſhing, is too well known to the Chriſtian World; divers have tried their skill to heal us, but have proved Phyſicians of no value. How many thoughts this hath cauſed our Royal Soveraign (the King of our Prayers) ſince God hath in ſo wonderful a manner brought Him to His Throne, he knoweth beſt? I doubt not but He made His Prognoſtick ſo ſoon as He ſaw the Patient, that the diſeaſe was moſt difficult of cure; yea, to bring this Church to ſuch a healing and healthy complexion, that God might delight to look on it, was a thing impoſſible for any Phyſician, but ſuch a one who is <hi>infallible</hi> in the knowledge of the diſeaſe, and of the medicines which muſt heal, and could irreſiſtibly cauſe the Patient to take the Phyſick, and Omnipotently concurre to the bleſſing of it.</p>
+               <pb n="2" facs="tcp:61483:14"/>
+               <p>One thing that makes ſome diſeaſes (as the <hi>Hypochondria<g ref="char:EOLhyphen"/>ca Affectio,</hi> into which, the perplexed thoughts and cares about our ſtate, may be enough to bring His Majeſty) ſo difficult of cure, is found in our diſeaſe; <hi>viz.</hi> the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>viſcerum,</hi> wherein the medicines which are good for one, hurt another. Some men pre<g ref="char:EOLhyphen"/>tending Antiquity for fifteen hundred years, cannot be healed un<g ref="char:EOLhyphen"/>leſs the Phyſician preſcribe a Bill of ſix hundred, yea, a thouſand Churches to one Biſhop [as <hi>Cyprian</hi> and <hi>Austin</hi> had, if modeſty will affirm it:] Lordly Title, Great Revenues, Pompous Cere<g ref="char:EOLhyphen"/>monies, Oath of Canons; which things of late, had almoſt de<g ref="char:EOLhyphen"/>ſtroyed our Nation: this is <hi>mala intemperies</hi> indeed. Others there are, who being under the Bonds of a Sacred Oath and Cove<g ref="char:EOLhyphen"/>nant, impoſed by both Houſes of Parliament, and as Solemnly ta<g ref="char:EOLhyphen"/>ken as ever Covenant was, they cannot be healed, unleſs the Phy<g ref="char:EOLhyphen"/>ſician preſcribe the Bill of Renowned King <hi>Charles</hi> the firſt in His dying Speech [<hi>When wiſe men die, they ſpeak to the life</hi>] who wrote His Bill thus,
+<note place="margin">Printed by <hi>W. Shears.</hi> 1654. p. 118.</note> 
+                  <hi>Now Sirs, for to put you in the way, believe it you win never do right, nor will God ever prosper you, untill you give God his due, and the</hi> KING <hi>His due; that is, in their courſe of time my Succeſſors, and untill you give the Peo<g ref="char:EOLhyphen"/>ple their due. You muſt give God his due, by regulating his Church aright, according to his Scripture.</hi> [A Speech becoming a Chriſtian Prince, and Subject to the King of Kings; I can hard<g ref="char:EOLhyphen"/>ly tranſcribe it with dry eyes:] The Holy Scripture, and the Co<g ref="char:EOLhyphen"/>venant will agree; and this is to fetch medicines from God. How is that Covenant which before we ſo much preſſed,
+<note place="margin">I deſire to ſee a rational An<g ref="char:EOLhyphen"/>ſwer to Mr. <hi>Crofton</hi> when come forth Dr. <hi>Gauden</hi>'s Re<g ref="char:EOLhyphen"/>ply.</note> come now to be ſo much ſlighted, I know not? Mr. <hi>Pryn</hi> as I heard publiſhed, and Mr. <hi>Crofton</hi> hath ſince affirmed, That by vertue of that Cove<g ref="char:EOLhyphen"/>nant, the whole Nation was bound to riſe up; and bring in our King, although they did not all formally take it; and that they war<g ref="char:EOLhyphen"/>ranted from the Covenant, though made by <hi>Joſhuah</hi> and the Elders, with the <hi>Gibeonites;</hi> but afterwards broken in <hi>Saul</hi>'s time. Sure I am, it made deep impreſſion upon the ſpirits of ſome of us, though we had not taken it as others; whence, though we did not riſe up in Arms, yet we did in fervent Prayers, and God gave the An<g ref="char:EOLhyphen"/>ſwer, <hi>tantum-non,</hi> miraculouſly. Have we been true to our King in that part which concerned Him, and muſt we not be true to the King of Kings in that which concerns him, having the ſame Ob<g ref="char:EOLhyphen"/>ligation? I am ſure we ought to be; elſe, as we charged ſome men
+<pb n="3" facs="tcp:61483:14"/>with <hi>perjury</hi> in reſpect of our King; others, yea, God will charge us with <hi>perjury</hi> in reference to that which concerns Him<g ref="char:EOLhyphen"/>ſelf.</p>
+               <p>I had thought the <hi>Reduction of Epiſcopacy,</hi> &amp;c. publiſhed by that <hi>Reverend, Learned, Humble, Holy</hi> and <hi>Peaceable</hi> Biſhop, Dr. <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> would have given content to the Biſhops, if they were as Gracious, and loved the peace of the Church [though not ſo learned] as he: Not only Dr. <hi>Holeſworth;</hi> but I heard alſo Dr. <hi>Brownerig,</hi> and two more Epiſcopal Doctors conſenting to it; had it pleaſed the Biſhops [as I doubt not but it doth Dr. <hi>Reynolds;</hi> whom, though I ſcarce ever ſaw, I muſt ever Reverence for his Pious, Goſpel-like, and Learned Labours:] I doubt not but it would have pleaſed our King, it being that Form which moderate men would not have oppoſed: And had the Liturgy been through<g ref="char:EOLhyphen"/>ly purged from what is offenſive in it, with other prayers added in Scripture-phraſe (and not ſo impoſed to take away the uſe of our gifts in any Ordinance) a ſtrict Law made and proſecuted for ejection of ſcandalous and inſufficient Miniſters; Men placed in Go<g ref="char:EOLhyphen"/>vernment, Orthodox, and acquainted with the Power of Godlineſs indeed (which His Majeſty declares He will promote) An Act eſta<g ref="char:EOLhyphen"/>bliſhed for ſanctifying the Sabbath, and other things; for which His Majeſty hath excellently declared, the Church had been in a <hi>recove<g ref="char:EOLhyphen"/>ring way,</hi> bleſſing the Lord for our Phyſician, as we have bleſſed Him, and do bleſs Him for His Gracious Moderation; His eaſing us of the Burden of Humane Ceremonies, and what He hath decla<g ref="char:EOLhyphen"/>red concerning tender Conſciences.</p>
+               <p>But here comes in Dr. <hi>Gauden,</hi> one that pretends to be an Aſſiſtant to the King in the Cure, a Chirurgion, or what I know not; but inſtead of carrying on the Cure, ſets it back very much: It is not a little paper and ink this man hath ſpent in our divided Times; I wiſh I could ſay his ſcope had been <hi>healing,</hi> but that I cannot; for his Sarcaſtical Pen hath dropped as much gall as ink againſt thoſe who are not of his perſwaſion. What addition of Argument he hath made to the Subjects he hath defended in theſe diſputing Times, I know not, unleſs it be his <hi>Ocular Demonſtrati<g ref="char:EOLhyphen"/>on for Epiſcopacy in a very pretty Gay,</hi> a Lay-mans book; the Gay might be of uſe when Children cry. Nor do I know what perſon of judgment that hath skill to diſtinguiſh between a great word, and a ſtrong Argument, he hath converted to his <hi>Epiſcopacy.</hi>
+                  <pb n="4" facs="tcp:61483:15"/>I dare ſay, not many, by what I heard from a learned man, Epiſ<g ref="char:EOLhyphen"/>copal, Liturgical, one of Dr. <hi>Hammonds</hi> great friends; for when his firſt Book came forth with that magnificent Title, <hi>Hieraspiſtes,</hi> I mentioned this Book that Dr. <hi>Gauden</hi> had put forth, unto him; he made a Pauſe before he gave me an Anſwer, then all that he an<g ref="char:EOLhyphen"/>ſwered, was this, <hi>Good ſtore of words.</hi> Surely if his own Party were not pleaſed with his Writings, judicious men of a contrary perſwaſion would not be converted by them.</p>
+               <p>For this diſcourſe of his about the Liturgy, I heard of it long before I could borrow it (and reſolved I was I would not buy it;) elſe I had conſidered his <hi>Conſiderations</hi> ſooner: A general diſtaſt I heard it gave to ſober and godly Miniſters, and ſome I am ſure complying with His Majeſties Declaration; when I came to view it, I found it juſt ſuch a thing as he ſcoffingly compares the Devo<g ref="char:EOLhyphen"/>tion of ſome men unto, that pray not by a Liturgy; <hi>Like a great skain of yarn,
+<note place="margin">Page 7.</note> courſe and ſnarl'd.</hi> Such I ſay I found his Book, full of words, ſo immethodical, that I could not tell where to begin to anſwer it. I muſt then do by his Book, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s we do by ſuch skains, break off what pieces I can, lay them in order before me to uſe them, and throw away the knot.</p>
+               <p>Thus then I cas'd his Book.</p>
+               <p>
+                  <hi>Firſt,</hi> He pleads for the <hi>neceſſity</hi> of a Liturgy, from the ſingu<g ref="char:EOLhyphen"/>ſar benefits of it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Secondly,</hi> He takes into conſideration our Liturgy; in which Conſiderations,</p>
+               <p n="1">1. With extraordinary Caution he doth almoſt acknowledge ſome ſmall faults, verbal defects, <hi>minutes,</hi> little errours, next to nothing.</p>
+               <p n="2">2. He anſwers the Objections againſt it with zeal.</p>
+               <p n="3">3. He commends it; yea, ſo admires it, that the man is tranſported; and though Rhetorick be his glory, yet even that is defective, and cannot perform its work, till he hath given it that honour which is due only to the Word of God. This he doth from ſeveral Heads ſcattered up and down.</p>
+               <p n="4">4. He exhorts, or commands us all to the uſe of it.</p>
+               <p>Some other things come in collaterally, but this is the beſt me<g ref="char:EOLhyphen"/>thod I can make of his conſuſed piece; for which I am forced to turn backward and forward to get things into any order.</p>
+            </div>
+            <div n="1" type="part">
+               <pb n="5" facs="tcp:61483:15"/>
+               <head>Part. 1.</head>
+               <div n="1" type="section">
+                  <head>Sectio prima.</head>
+                  <p>FOR his firſt Head, <hi>Liturgy,</hi> which, though variouſly, and more largely uſed, he confines to Forms of Prayer; I cannot deny but a Liturgy may be uſeful to many Miniſters (at leaſt who go for ſuch) in this Land, men of meaner abilities, and not able to expreſſe themſelves publickly in every prayer, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Yea, ſo far am I from conceit of my own gifts, (though the Doctor charge us with <hi>pride</hi> and <hi>oſtentation</hi>) that if my gifts be not ſuffici<g ref="char:EOLhyphen"/>ent, I will freely uſe the <hi>Liturgy,</hi> (when purged from things of<g ref="char:EOLhyphen"/>fenſive) as the Doctor would have me; or rather lay down my Miniſtry, as thinking Chriſt never called me to it, if He hath not beſtowed on me a gift of prayer in ſome meaſure ſufficient: So that this will clear me that I am not a man abſolutely againſt Liturgies, nor the Book of Common-prayer.</p>
+                  <p>But becauſe I am weak, and need it, that therefore it muſt be impoſed upon the ableſt men; and ſo that in the Sacraments,
+<note place="margin">pag. 27.</note> 
+                     <hi>All Miniſters muſt be commanded wholly and ſolely</hi> to uſe the Litur<g ref="char:EOLhyphen"/>gical Forms, as this Doctor would have it; this I am not as yet ſatisfied in, nor can I yield to it.</p>
+                  <p>However this man ſcoffs at mens private gifts, yet he cannot but acknowledge, <hi>pag.</hi> 19. that ſome men have <hi>real</hi> and <hi>uſeful</hi> gifts, which he eſteems, and denies not their uſe; and in <hi>pag.</hi> 39. tells us, That <hi>God be thanked by Divine permiſſion,</hi> people may enjoy them. How is this, by <hi>Divine permiſſion?</hi> Is this all the Warrant we have from God for the uſe of the gifts which he re<g ref="char:EOLhyphen"/>quires to be in a Miniſter, and gives to them whom he calls into the Miniſtry? What, no more than for the fouleſt ſin which God <hi>permits?</hi> What ſay the learned, <hi>Permittere, propriè loquendo eſt,
+<note place="margin">Twiſ. <hi>Vindic Gra.</hi> 2. p. <hi>dig.</hi> 3.</note> neque facere ut aliquid fiat, neque impedire ne fiat.</hi> But if you ſay, <hi>Perm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſion</hi> reacheth to things that are <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Have we no more warrant for the uſe of our gifts from God, than we have to go this or that way to <hi>London,</hi> which we pleaſe? This is ſtrange Divinity.</p>
+                  <p>For my part when I think of theſe things,</p>
+                  <p>
+                     <hi>Firſt,</hi> That Jeſus Chriſt purchaſed, and when he aſcended, gave gifts to men, <hi>Eph.</hi> 4.8. and ſome of theſe men are <hi>Paſtors, v.</hi> 11. and I am ſure the gift of Prayer is one.</p>
+                  <pb n="6" facs="tcp:61483:16"/>
+                  <p>
+                     <hi>Secondly,</hi> That God promiſed to give the gift of prayer, <hi>Zech.</hi> 12.20. which Biſhop <hi>Hall</hi> interprets thus, <hi>I will pour out upon my Church,</hi> &amp;c. though I think it hath a more ſpecial reference to the Jews as yet to be converted, yet the Lord doth not onely promiſe to them.</p>
+                  <p>
+                     <hi>Thirdly,</hi> When I read <hi>Rom.</hi> 8.26. That the Spirit is given to help our infirmities, when we know not what to pray for as we ought.</p>
+                  <p>
+                     <hi>Fourthly,</hi> When I cannot find that ever Liturgies were impo<g ref="char:EOLhyphen"/>ſed upon the Church, not upon the Jews in their beſt ſtate, nor I am ſure upon the Chriſtian Churches, though the Apoſtles had more ability to <hi>compoſe,</hi> and authority to <hi>impoſe</hi> Liturgies upon the Church than any now.</p>
+                  <p>
+                     <hi>Fifthly,</hi> When I obſerve the Arguments men produce for Li<g ref="char:EOLhyphen"/>turgies, do take away the <hi>whole</hi> gift of prayer from the ableſt man.</p>
+                  <p>
+                     <hi>Sixthly,</hi> When the ſame Arguments were in as much force in the Apoſtles days as they are now, yet they were not ſo witty to invent Liturgies, or to impoſe them on the Church.</p>
+                  <p>
+                     <hi>Seventhly,</hi> When men may as well take away the gift of <hi>Preaching</hi> as of <hi>Prayer;</hi> the ſame Arguments will remove the one as well as the other.</p>
+                  <p>
+                     <hi>Eighthly,</hi> When I ſee the ſame <hi>Confeſſions, Petitions,</hi> &amp;c. which are made in the Liturgies read, are preſently made with more en<g ref="char:EOLhyphen"/>largement by thoſe who pray by their own gift with the aſſiſtance of the Spirit.</p>
+                  <p>
+                     <hi>Ninthly,</hi> When this tying up to Liturgies, and that wholly in Sacraments, <hi>&amp;c.</hi> quite deſtroys that Petition in our preparati<g ref="char:EOLhyphen"/>ons and prayers for the aſſiſtance of the Spirit, as to the matter of our prayer, acknowledging our own inability to think one good thought, for we are tied exactly to words.</p>
+                  <p>When I conſider theſe with other Arguments, and ſome which I ſhall mention when I come to the Doctors preſſing our Liturgy, I cannot be ſatisfied how any Liturgies can be impoſed on any whom God hath qualified; and they make me queſtion our uſe of them when they are impoſed, eſpecially when I come to add what I find againſt ours in Dr. <hi>Gauden.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="7" facs="tcp:61483:16"/>
+                  <head>Sectio ſecunda.</head>
+                  <p>NOw then to the Doctors reaſons for <hi>Liturgy,</hi> which he gives us, <hi>pag.</hi> 9, 10, 11.</p>
+                  <p>In general I may onely ſay this, if the giving of ſeeming rea<g ref="char:EOLhyphen"/>ſons for a thing (in which the Doctor hath ſome advantage through great words and Rhetoricall flouriſhes) will prove it a truth in Divinity, what <hi>Hereſie</hi> ſhall not be a truth? Then thoſe reaſons which <hi>Perronus</hi> offered to give the King of <hi>France</hi> to prove there was <hi>no</hi> God, might have proved that to have been a Truth, which Atheiſtical hearts would have to be true, and <hi>
+                        <g ref="char:V">Ʋ</g>ani<g ref="char:EOLhyphen"/>nu</hi> like a ſimple man could ſuffer in the defence of.</p>
+                  <p>But in theſe things I provoke Doctor <hi>Gauden</hi> to King <hi>Charls</hi> the Firſt his Rule, <hi>i.e.</hi> the <hi>Scriptures</hi> of God. To <hi>Deut.</hi> 4.2. to <hi>Iſa.</hi> 8.22. <hi>Matth.</hi> 28.19, 20. 2 <hi>Tim.</hi> 3.15, 16. Is the <hi>Word</hi> a perfect Rule or no? if it be, what do Carpenters and Maſons with their Rules, do they not apply them to their works and ſee how they anſwer them? Do you the ſame with this Divine Ca<g ref="char:EOLhyphen"/>non, apply it to your whole diſcourſe, and ſee how it agrees, ap<g ref="char:EOLhyphen"/>ply the ſecond Commandment, if all you have ſaid accord with that Rule, we will readily obey, and fools we were to ſtand out, to hinder our liberties and carnal preferments.</p>
+                  <p>But however let us weigh his Reaſons, he is ſo full of words that I muſt contract what I can.</p>
+                  <p>His firſt is this: <hi>A Liturgy conduceth much to the more ſo<g ref="char:EOLhyphen"/>lemn auguſt and reverent worſhip of the Divine Majeſty in Chri<g ref="char:EOLhyphen"/>ſtian C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ngregations: where otherwiſe the venerable Myſteries muſt be expoſed to that rudeneſſe, and unpreparedneſſe, that barrenneſs and ſuperficialneſſe, both for matter and manner, judgment and ex<g ref="char:EOLhyphen"/>preſſion, to which every private Miniſter is daily ſubject, as late experience hath taught us.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> 
+                     <hi>Anſwer.</hi> Is there ſuch a <hi>Divine Majeſty</hi> as you ſpeak of? then the good Lord humble and pardon me for want of due reve<g ref="char:EOLhyphen"/>rence becoming his preſence: it ſeems you take care for the re<g ref="char:EOLhyphen"/>verence of him, 'tis well done. But, Sir, hath not this Divine Majeſty given to the ſons of men a Rule according to which they
+<pb n="8" facs="tcp:61483:17"/>muſt worſhip him? then ſhow your reverence to this Divine Ma<g ref="char:EOLhyphen"/>jeſty, by proving your humane inventions in his worſhip, and of impoſed Liturgies on his ableſt ſervants by <hi>his</hi> Rule, elſe what ever you talk of <hi>reverence,</hi> 'tis but <hi>will-worſhip,</hi> as the Apoſtle hath it, <hi>Col.</hi> 2.23.</p>
+                  <p>If I through my ſin and infirmity am not able to reverence him as becomes him, this is <hi>my infirmity,</hi> I deſire to repent and fly to my High Prieſt for pardon; but for men to bring in their Modes of worſhip, as more highly conducing to his reverent wor<g ref="char:EOLhyphen"/>ſhip, for which we cannot find warrant in his Rule, this ſeems to be <hi>Gods infirmity,</hi> who did not reveal the beſt way of worſhip: This is brave reverence to charge him with want of wiſdom.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, By this argument take away the whole gift of Prayer, for if we pray but once before Sermon by our own gift, we are in<g ref="char:EOLhyphen"/>cident to this <hi>ruden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſs,</hi> &amp;c. Yet you allow us <hi>once</hi> to pray.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, This argument from <hi>reverence</hi> ſpeaks of the inward frame of heart, a grace which the <hi>Spirit,</hi> not a <hi>Liturgy,</hi> muſt help to; but if of the outward expreſſion, it is like to be moſt reverend where the heart is the dictator: without preſcribed words, which may be repeated with little or no regard.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, Let the <hi>rude</hi> and <hi>unreverent</hi> worſhipers have this impoſed on them, if it will help them; but I never ſaw more rude worſhipers than many, if not moſt of thoſe who uſe it.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, It is true, and a thing to be lamented, do what we can it is hard to keep our minds and affections but they will be gad<g ref="char:EOLhyphen"/>ding, though we ſet our ſelves never ſo cloſe to our work, and pray from our own gifts, yet this is one means to help our vile hearts to keep in, when our minds are upon our hearts to expreſs our deſires riſing firſt from thence, to what they are when a mans eye is upon his book reading what is there, when eſpecially through often reading he hath been accuſtomed to his road, the Carrier with ſuch a Horſe may ſit on his Horſe back and ſleep, his Horſe knows his Road.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, Hath Doctor <hi>Gauden</hi> ſeen all the behaviours of Mi<g ref="char:EOLhyphen"/>niſters, heard all their prayers at Sacraments ſince that <hi>Liturgy</hi> was laid by? No, I am ſure he hath not. Why then doth he charge <hi>all</hi> men thus? by nature we are bad enough, but what are men nothing by grace, and that growing, nothing by gifts im<g ref="char:EOLhyphen"/>parted, and theſe excellent, and not onely ſo, but aſſiſted by the
+<pb n="9" facs="tcp:61483:17"/>Spirit of God? And what if the Spirit doth not alwayes alike aſ<g ref="char:EOLhyphen"/>ſiſt to humble us, and make us know our dependance on him, muſt we by and by bring in a humane invention? But O the re<g ref="char:EOLhyphen"/>verence that I have ſeen, the excellent prayers full of divine mat<g ref="char:EOLhyphen"/>ter, fluently poured out that I have heard from ſome Miniſters who uſe not the Liturgy; would to God many that uſe it, did ap<g ref="char:EOLhyphen"/>pear like them.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> Seventhly, By this Argument you may take away <hi>all preach<g ref="char:EOLhyphen"/>ing;</hi> I am ſure men have ſhewn as much <hi>rudeneſs, deformity, bar<g ref="char:EOLhyphen"/>renneſs</hi> in this Ordinance, as in the other, eſpecially your Liturgi<g ref="char:EOLhyphen"/>cal men; what ſtories do men tell of ſome of them? I hope the Divine Majeſty is as well concerned in preaching as prayer.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Eighthly, If theſe <hi>evils</hi> you mention be ſo ſubject to all men now, they were ever ſo ſince the Fall: I am ſure <hi>Paul</hi> was as careful of the Reverence of the <hi>Divine Majeſty</hi> as you are; yet he did not find out this means againſt thoſe evils which you do. What, had <hi>Paul</hi> no skill how to order and provide for the <hi>Auguſt,</hi> and Re<g ref="char:EOLhyphen"/>verend worſhip of God?</p>
+               </div>
+               <div n="3" type="section">
+                  <head>Sectio tertia.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>2</label> HIS ſecond Reaſon is this, <hi>A Liturgy is a great defence to true Doctrine, and a means to prevent the spreading of cor<g ref="char:EOLhyphen"/>rupt opinions.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> 
+                     <hi>Anſw.</hi> 1. Not every Liturgy, ſome may be bad enough; this was the firſt Reaſon (as ſome conceive with lazineſs) which firſt brought in Liturgies, the <hi>Arrian</hi> and <hi>Pelagian</hi> Hereſies; in which time yet Miniſters did compoſe and uſe their own prayers, though they were firſt review'd: But it may be the Doctor hath an honeſt deſign in this; for he knows well, that abundance of the Epiſcopal men now preferred, are ſtout <hi>Arminians,</hi> of the ſame blood with <hi>Pelagius;</hi> and he fears theſe men will ſpread Pelagia<g ref="char:EOLhyphen"/>niſm under a little finer dreſs, and ſo would have the Liturgy impo<g ref="char:EOLhyphen"/>ſed, to keep them from doing this miſchief. Ah Doctor! this will not do, ſuch men call for the Liturgy more than any; but if this were your only intent, we thank you for your honeſty.</p>
+                  <pb n="10" facs="tcp:61483:18"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>Secondly,</hi> Confeſſions of Faith and Catechiſms being ſound, Orthodox and Subſtanti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l, impoſed on all, were the beſt means to attain this end; witneſs the ſeveral Creeds of the four firſt general Councils of <hi>Nice, Conſtantinople, Epheſus</hi> and <hi>Chalcedon,</hi> againſt the Hereſies of <hi>Arrius, Macedonius</hi> and <hi>Eudoxius, Neſtorius</hi> and <hi>Eutyches.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>Thirdly,</hi> By this, you muſt take away <hi>all</hi> prayer by our own gifts; for if men pray but once, they may vent their Hereſies.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                     <hi>Fourthly,</hi> By this, you take away <hi>all preaching,</hi> by our own gifts; for men vent their Opinions, and people mind the Opini<g ref="char:EOLhyphen"/>ons of men, and take them more from their preaching than prayer; and ſo the us to the Homilies, as neceſſary, and of conſtant publick uſe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                     <hi>Fifthly,</hi> The Church of <hi>Scotland</hi> had no Liturgy for many years; yet what Church ſo clear from Hereſies, as that, and ſome other Churches I know? <hi>England</hi> had far more when the Litur<g ref="char:EOLhyphen"/>gy was in uſe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                     <hi>Sixthly,</hi> The Apoſtles were troubled with corrupt <hi>Doctrines</hi> in their times; we find indeed mention made of <hi>Catechiſms</hi> in the Epiſtles; but for this way to keep out corrupt Opinions, we find none.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+                     <hi>Seventhly,</hi> If men be corrupt in Doctrine, they will be known; and if we be ſuch, turn us out of our places.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>Sectio quarta.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>3</label> HIS Third Reaſon is this, A <hi>Liturgy much advanceth a holy harmony amongſt Chriſtians, while praying the ſame things, all men ſay,</hi> Amen, &amp;c.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> 
+                     <hi>Anſw.</hi> 1. If ever this ſpecious Argument had any force, it was then when the Apoſtles preached and planted Churches in <hi>Aſia, Europe</hi> and <hi>Africa;</hi> for then had they compoſed a Liturgy (which had been perfect we are ſure) and impoſed it upon all theſe Churches, there had been a <hi>holy harmony;</hi> not only in <hi>Parochial</hi> and <hi>National</hi> Churches, as you ſay; but in the <hi>Catholick viſible Church</hi> through the World, all Churches in the World, <hi>praying the ſame things,</hi> and then ſaying, <hi>Amen:</hi> But this device never came in their heads, How do we excell the Apoſtles in wiſdome?
+<pb n="11" facs="tcp:61483:18"/>In <hi>page</hi> 30. he tells us, <hi>That he hath ſeen the moſt, and the beſt Liturgies, Ancient and Modern.</hi> I entreat him that if amongſt them he ſaw the <hi>Apoſtles Common-prayer book</hi> which they impo<g ref="char:EOLhyphen"/>ſed upon the Churches, that he would pleaſe to get it re-printed; for the firſt impreſſion (if ever any) is quite out. We will uſe that without queſtion.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>Secondly,</hi> Are not theſe men more curious then God is? doth He ſo call for a <hi>verbal harmony?</hi> Is it not ſufficient, that we pray the ſame things, though in divers Forms? if we keep to the <hi>Lords Prayer,</hi> begging the ſame things, though in other words, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <hi>Auſtin</hi> ſaith, Is not this Harmony as much as God calls for, and cares for? Indeed for <hi>Doctrines,</hi> where the altering of a word (as in the <hi>Tri<g ref="char:EOLhyphen"/>nity, &amp;c.</hi>) may bring in a Hereſie, there the ſame words are good; and it is needful as much as may be, to hold to a <hi>wholeſom Form</hi> of words; but this is not the ſame caſe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>Thirdly,</hi> By this take away all prayer by our own gift; for <hi>verbal Harmony</hi> is not to be found there, though we pray for the ſame things; here our <hi>National Harmony,</hi> and <hi>Amen</hi> are gone. Why not uniformity of words in prayer before Sermon, as at a Sa<g ref="char:EOLhyphen"/>crament, or at other times in your Confeſſion, and morning prayers, if the Argument be of ſuch force?</p>
+                  <p>It is ſtrange to me that this taking Notion was not known in the firſt nor ſecond Century; Why do not theſe boaſters of An<g ref="char:EOLhyphen"/>tiquity bring forth the impoſed Liturgies in theſe times, ſo as to take away the uſe of Miniſters gifts? I ſee the Doctor in his <hi>Gay<g ref="char:EOLhyphen"/>book,</hi> could beteam to prove from thoſe words in <hi>Juſt. Mart. Apol.</hi> 2. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, That there were ſuch prayers then impo<g ref="char:EOLhyphen"/>ſed; but he doth but glance at the place, and will not, I believe, venture his credit upon it, (for fear the next page in <hi>Just. Mart.</hi> ſhould confute him; beſides the very place where <hi>Juſtin</hi> uſes the words, ſhew what he means by them, nothing to this purpoſe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                     <hi>Fourthly,</hi> If uniformity in praying be ſuch a divine thing, why not alſo in preaching? if <hi>verbal Harmony</hi> be ſo excellent in one Ordinance, why not in all? every Congregation the <hi>ſame day</hi> taught the <hi>ſame truth</hi> from God in the <hi>ſame words,</hi> is not this glo<g ref="char:EOLhyphen"/>rious? ſo take away Preaching.</p>
+                  <p>You will allow us our own gifts ſometimes, <hi>becauſe of many particular occaſions which no Liturgy can particularly reach,</hi> page 19. Very true, your Liturgy could not reach our King in
+<pb n="12" facs="tcp:61483:19"/>His Baniſhment, if men could not have prayed without it, how then? But ſo you may ſay for Preaching for ſome particular occa<g ref="char:EOLhyphen"/>ſion allow us our gifts; but for <hi>uniformity ſake,</hi> read Homilies in<g ref="char:EOLhyphen"/>ſtead of ordinary Preaching, this is excellent.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>Sectio quinta.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>4</label> HIS fourth Reaſon is this, A <hi>Liturgical Form is not only of great benefit to the more judicious and well-bred ſort of Chriſtians; but highly to their ſecurity, and humble compoſure of their ſpirits in the worſhip of God; who otherwiſe are prone, not only amidſt publick devotions curiouſly to cenſure, but ſcof<g ref="char:EOLhyphen"/>fingly to deſpiſe; yea, many times to laugh at, and at beſt to pity in<g ref="char:EOLhyphen"/>congruities,</hi> &amp;c.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> 
+                     <hi>Anſw.</hi> 1. But a Liturgy will not prevent this carriage of your judicious Chriſtians, unleſs you take away prayer altogether; for if we pray but once before Sermon, ſome expreſſions there may be which your <hi>ſcoffing, well-bred</hi> Chriſtians will laugh at.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>Secondly,</hi> The queſtion is, Whether thoſe paſſages be ſo <hi>incon<g ref="char:EOLhyphen"/>gruous</hi> as your well-bred Chriſtians imagine; I have known <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> common for your <hi>well-bred Liturgical</hi> Chriſtians to ſport with the <hi>Holy Scriptures:</hi> No wonder though they laugh at ſome paſ<g ref="char:EOLhyphen"/>ſages in prayer, which their wanton fancies like not. And indeed a man may obſerve it, when once your Liturgical well-bred Chri<g ref="char:EOLhyphen"/>ſtians have mumbled over their Service, and now think they have devoutly ſerved God; their next work, if their eyes be (not elſewhere about the Congregation, but) upon the Miniſter, is not ſo much to joyn with him in prayer, but to watch at what ex<g ref="char:EOLhyphen"/>preſſions they may carp at, either in prayer; or in preaching, and then to laugh; ſcarce ever ſee more profane worſhippers, than many of them are.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>Thirdly,</hi> You may take away all preaching alſo; for your <hi>well-bred</hi> ſcoffing Chriſtians are <hi>prone</hi> to laugh, if any incongru<g ref="char:EOLhyphen"/>ous paſſage be in a Sermon; but laughing is forbidden there alſo.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                     <hi>Fourthly,</hi> There are ſome men ſo able, that the Devil himſelf cannot find an incongruous ſentence in their prayers, why muſt it be impoſed upon theſe men?</p>
+                  <pb n="13" facs="tcp:61483:19"/>
+                  <p>
+                     <hi>Fifthly,</hi> I have known ſuch as have had ſome incongruous paſſages, and being told of them, have uſed them no more; this is a better way than yours.</p>
+                  <p>I have known ſome <hi>wel-bred</hi> women, who when they have <hi>bred-well,</hi> and have been ſafely delivered, have laughed, and that not without cauſe, to hear what a ſuitable form of Thankſgiving your unparallel'd Liturgy hath prepared for them; bleſſing them from the burning of the Moon.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>Sectio ſexta.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſ. </seg>5</label> HIS fifth Reaſon is this, <hi>A Liturgical Form doth mightily con<g ref="char:EOLhyphen"/>duce to the edification and ſalvation of the meaner ſort, to whom variety of expreſſions in Prayer or Sacraments is much at one with Latine-ſervice, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>1</label> 
+                     <hi>Anſw.</hi> 1. No, not much at one, our people underſtand plain <hi>Engliſh</hi> better than <hi>Latine,</hi> unleſſe all men uſed ſuch high-flown words as you; for Sacraments, I know no man varies from the words of <hi>Inſtitution</hi> which Chriſt uſed; and as for prayers at Sa<g ref="char:EOLhyphen"/>craments (the Lords Supper I mean) your Liturgical men have not that Ordinance ſo often for plain people to remember the prayers.</p>
+                  <p>
+                     <hi>Secondly,</hi> If it be ſo good for the meaner ſort, what ſhall we do with your <hi>judicious well-bred</hi> Chriſtians you mentioned before? will not they laugh and ſcoff at the plain things which the vul<g ref="char:EOLhyphen"/>gar Ruſticks and Mechanicks have prepared to edifie and ſave them? But it may be you will ſay, becauſe it is a <hi>humane inventi<g ref="char:EOLhyphen"/>on</hi> they will approve it, and like it never the worſe. Ay Sir; but ſo will not the judicious and <hi>right-bred</hi> Chriſtians.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>Thirdly,</hi> But O ye bleſſed Apoſtles, and thou zealous <hi>Paul,</hi> who did ſo love and labour for the ſalvation and edification of ſouls, and the <hi>meaner ſort,</hi> 1 <hi>Cor.</hi> 1. were theſe who moſt what received the Goſpel, here is a means <hi>mightily conducing</hi> to the ſalvation of the <hi>meaner ſort;</hi> for which thou <hi>Paul</hi> I am ſure didſt labou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> almoſt as much as Dr. <hi>Gauden;</hi> but couldſt not thou, not all the other Apoſtles hit of this <hi>mighty means?</hi> no wonder though you did miſs of your end; you or Dr. <hi>Gauden</hi> wanted wiſdom.</p>
+                  <pb n="14" facs="tcp:61483:20"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                     <hi>Fourthly,</hi> But is it ſo <hi>mighty</hi> a means? What is the Reaſon then where this Liturgy hath been moſt uſed, people held moſt to it, and Miniſters had no gifts of their own, that in theſe places ſo few ſhew forth any converſion? If any, it was got in ſome other place by ſome other gifts; ſearch, and ſee how true this is. Num<g ref="char:EOLhyphen"/>ber your Common-prayer Book Converts, and conſider the Edi<g ref="char:EOLhyphen"/>fication of common Zelots for it.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                     <hi>Fifthly,</hi> Pardon, me, Sir, if I miſtake, I thought <hi>Catechiſing</hi> and Teaching, or appointing them forms of prayer at home, ſuta<g ref="char:EOLhyphen"/>ble to their conditions, had been a better means to edifie and ſave them, than forms of prayer in a Church.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                     <hi>Sixthly,</hi> By this Argument, often Repetitions of the ſame Sermon were very good to edifie and ſave the meaner ſort; but will your judicious and well-bred Chriſtians like this project?</p>
+                  <p>His ſixth and laſt Reaſon is, <hi>That a Liturgy is a Bulwark against Romiſh Superſtition, and Fanatick Innovations.</hi>
+                  </p>
+                  <p>But here he ſlips out of the <hi>Theſis</hi> to the <hi>Hypotheſis,</hi> and commends <hi>our</hi> Liturgy upon this ground; I will meet with this in its proper place afterwards.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>Part. 2.</head>
+               <div n="1" type="section">
+                  <head>Sectio prima.</head>
+                  <p>IN the next place he takes our Liturgy into conſideration,
+<note place="margin">1. He excuſes the Liturgy.</note> and here:</p>
+                  <p>
+                     <hi>Firſt,</hi> As I ſaid, he yields, <hi>pag.</hi> 5. <hi>ſome ſmall faults, verbal defects, which are very venial in any things of human conſtitution:</hi> But <hi>pag.</hi> 33. gives it a fair abſolution.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> 
+                     <hi>Anſw.</hi> Could the Doctors Rhetorick help him to ſpeak, and yet not to ſpeak, he would do it; but, Sir, you may ſpeak out; not onely our King that now is,
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> but his Royal Father ſaid, that He <hi>would eaſily conſent, that what was inconvenient for matter or manner, ſhould be amended.</hi> I have ſeen a paper printed, I think about the year 1641, in which were divers things ſet down by
+<pb n="15" facs="tcp:61483:20"/>ſome of the Biſhops, which they intended to Correct. I perceive you intend to give it but a gentle purge: I pray, Sir, are you the man alone intruſted in this work? truly I do not take your judgment to be the meaſure of all the judgments of the Divines in <hi>England,</hi> though you ſay your <hi>Liturgy must be of all our Devo<g ref="char:EOLhyphen"/>tions in publick, pag.</hi> 27. But of this more afterwards.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>Sectio ſecunda.</head>
+                  <p>THe ſecond Conſideration is,
+<note place="margin">2. He defends the Liturgie.</note> His endeavouring to defend it againſt the objections brought againſt it. <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>1</label> The firſt of which is that Prayer which is uſed after Baptiſm, wherein thanks is <hi>gi<g ref="char:EOLhyphen"/>ven to God becauſe he hath been pleaſed to regenerate this Infant:</hi> Here he defends <hi>Baptiſmal Regeneration</hi> briefly, of which in a more proper place afterwards.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>2</label> 
+                     <hi>The ſecond <hi>Objection</hi> is this, That ſome men</hi> (and one Mini<g ref="char:EOLhyphen"/>ſter he ſaith he knows) <hi>have charged it with a</hi> Lye <hi>in the beginning, becauſe the words are not the ſame with the Text in</hi> Ezek. 18.21, 22. And theſe men he loads with <hi>Impudency, Ignorance, Blaſphe<g ref="char:EOLhyphen"/>my, intolerable Confidence,</hi> pag. 24, 25.</p>
+                  <p>The Doctor wants not words, what ſhame hath he poured up<g ref="char:EOLhyphen"/>on theſe men, and that one Miniſter? I wonder who he is. This indeed I have heard; That take theſe words.</p>
+                  <p n="1">1. As the Line before them orders the Miniſter to read with a loud voice one of theſe Sentences of Scripture which follow, and this is the firſt, <hi>At what time ſoever a ſinner repents him, &amp;c.</hi>
+                  </p>
+                  <p n="2">2. As theſe words are ſaid to be the Sentence of Scripture, in <hi>Ezek.</hi> 18.21, 22.</p>
+                  <p n="3">3. As they have theſe words, <hi>ſaith the Lord,</hi> annexed: In this ſenſe I have heard them charged with a <hi>Lye,</hi> not denying, what may be drawn by Conſequence from Scripture.</p>
+                  <p>For my own part I have been much offended with theſe words.</p>
+                  <p n="1">1. Becauſe they are ſaid to be a Sentence of Scripture in ſuch a Text.</p>
+                  <p n="2">2. As they have helped to <hi>procrastinate</hi> Repentance, and
+<pb n="16" facs="tcp:61483:21"/>have been a Trap-board for Hell; your <hi>meaner ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t</hi> whom you labour to edifie, have got theſe words, <hi>At what time ſoever, &amp;c.</hi> laid them up.</p>
+                  <p n="3">3. As they help to bolſter up many a wretch, who when he comes to dye, and his luſts forſake him, now <hi>from the bottom of his heart</hi> (as he phanſies) he repents, and there is Comfort for him.</p>
+                  <p>But all that you have ſaid will not ſave thoſe words from be<g ref="char:EOLhyphen"/>ing <hi>very falſe</hi> in the ſenſe mentioned, in which I am confident they were ſpoken; and how much that which is <hi>very falſe</hi> differs from a <hi>Lye</hi> in this caſe, judge you. And truly, Sir, if this be the taſte you give us how you will correct the Prayer-book, the Jeſuites have by their <hi>Index expurgatorius</hi> done more ſervice to their Romiſh Synagogue in purging out of Authors what was good, than you will do ſervice to the Church of <hi>England</hi> by purging out what is <hi>unſound.</hi> Let us read what you ſay,</p>
+                  <p>
+                     <hi>All the words of that Sentence</hi> (in the Common-prayer book) <hi>are not in that place,</hi> Ezek. 18. 21, 22. <hi>This is very true,</hi> ſay you: Then ſay I, it is <hi>very falſe,</hi> that thoſe words are the ſentence of that Scripture: You confeſſe it; You ſay, <hi>All the words are not, &amp;c.</hi> how many think you are? I have viewed theſe Verſes in the old Engliſh Tranſlation when that Prayer-book was compoſed, (as I ſuppoſe) there I find above 63 words, in our Tranſlation about 59. and though I eaſily yield you <hi>wicked</hi> and <hi>ſnner, turn</hi> and <hi>repent,</hi> for Synonomies, yet I find not above <hi>five</hi> of the ſame words in the Common-prayer Book which are in that Text which the Common-prayer Book refers unto: So that they are not <hi>All</hi> indeed.</p>
+                  <p>How then? <hi>But</hi> (ſay you) <hi>the Evangelical Soundneſſe and Sence is more fully united, and comprehenſively ſet down in the Book of Common-prayer, than in theſe verſes cited in the Mar<g ref="char:EOLhyphen"/>gin.</hi>
+                  </p>
+                  <p>Hold a little. 1. The Lord inſpires his holy Prophets imme<g ref="char:EOLhyphen"/>diately with ſuch words to expreſſe his will and mind, which are written by his Pen-man.</p>
+                  <p n="2">2. Shall ordinary men take theſe words and alter them, and that very much (as I ſhall ſhew) and this Sentence thus altered, be called the Sentence of Scripture in that Text.</p>
+                  <p n="3">3. Yea ſhall men ſay the ſenſe is more fully united, and com<g ref="char:EOLhyphen"/>prehenſively
+<pb n="17" facs="tcp:61483:21"/>ſet down in the Sentence altered, than in thoſe words, the Lord did immediately inſpire, ſurely then it is better; well, let us ſee what will follow.</p>
+                  <p n="1">1. Thus we may alter the whole Scripture, and make a new Scripture of it, and tell the people we give you the ſame Bible that God inſpired his Servants to Write, but in a ſence more E<g ref="char:EOLhyphen"/>vangelical and fully united, than in thoſe words the pen-men wrote them. So that we have mended the Scripture; By the ſame rea<g ref="char:EOLhyphen"/>ſon you alter two verſes, you may twenty; ſo make a ſhorter Bible.</p>
+                  <p n="2">2. When we preach and quote Texts, we may read them o<g ref="char:EOLhyphen"/>therwiſe than they are in the Original, or any Tranſlation, and when the people look for the Texts in their Bibles, and cannot find the verſes as we quote them, we may tell them, we give the ſound Evangelical ſence, more fully united, <hi>&amp;c.</hi> than you have in your Bibles, or in the Original, were not this a good Anſwer? Doctor, who is bold.</p>
+                  <p n="3">3. This Doctor is ſo exact in our Prayers to God, that he will bind us all to the <hi>very ſame words</hi> in a Common-Prayer-Book, we muſt not pray for the ſame things by our own gifts, though more enlarged; thus he ties us up to mens words in his humane Invention, but for Gods words he can plead for the altering of them, leaving abundance out.</p>
+                  <p n="4">4. I deny what you ſay, <hi>That the Evangelical Soundneſs and Sence is more fully united in the Common-Prayer-Book.</hi>
+                  </p>
+                  <p>For the <hi>Evangelical</hi> ſence muſt lie in the <hi>bottom of the heart:</hi> Now that you are fain to interpret, elſe we could not tell what the ſence is of thoſe words.</p>
+                  <p n="2">2. But eſpecially, thus it appears, 'tis not true; for in <hi>Ezek.</hi> 18.21, 22. The nature of Repertance is opened, if you ask what is Repentance? I anſwer out of <hi>Ezek. It is the turning from all a mans ſins, and keeping all Gods Statutes;</hi> But in your Common-Prayer-Book, there is not one word of this, only the <hi>Definitum</hi> Re<g ref="char:EOLhyphen"/>pentance mentioned.</p>
+                  <p n="3">3. In <hi>Ezekïel</hi> there is nothing of the <hi>Time</hi> expreſſed, but in your Common-Prayer-Book, there we muſt read with a loud voice the firſt words, <hi>At what time ſoever.</hi>
+                  </p>
+                  <p>The Texts you adde, make nothing to your purpoſe. The queſtion was not, what may be gathered from Scripture by Con<g ref="char:EOLhyphen"/>ſequence
+<pb n="18" facs="tcp:61483:22"/>(this was yielded) but whether thoſe words in the Com<g ref="char:EOLhyphen"/>mon-Prayer-Book were the ſentence of Scripture in <hi>Ezkeiel</hi> 18. Methinks a great Doctor, yea now an elder Biſhop, ſhould under<g ref="char:EOLhyphen"/>ſtand <hi>Ignoratio Elenchi.</hi>
+                  </p>
+                  <p>Then you come to prove the lawfulneſs from parallel Texts in the <hi>N. T.</hi> where the Apoſtles do quote Texts out of the old <hi>T.</hi> not <hi>verbatim,</hi> but to the ſence; as <hi>Hebr.</hi> 10.5, 6. <hi>from Pſal.</hi> 40.6, 7. <hi>and bid the Supercritical Cenſors compare words.</hi> So Mat. 27.9. <hi>Not verbatim out of</hi> Jeremy, <hi>but moſt out of</hi> Zechariah.</p>
+                  <p>
+                     <hi>Anſw.</hi> What <hi>Franciſcus David</hi> would ſay to this I know, but ſpare his words, and I could propound a ſad queſtion here, which I ſhould thank thoſe who could reſolve me; I muſt leave it, and ſee your Logick.</p>
+                  <p n="1">1. Becauſe the Apoſtles did ſo, when guided as the Pen-men of the Scripture, <hi>Therefore,</hi> ordinary men may do ſo; prove the <hi>Conſequence.</hi>
+                  </p>
+                  <p n="2">2. As to the ſence in <hi>Heb.</hi> 10. unleſs it be where the Apoſtle follows the <hi>Septuagint</hi> in thoſe words, <hi>A body thou haſt prepared;</hi> the ſence and words are the ſame with the <hi>Pſalm,</hi> it is not as in your Common-Prayer-Book, to give us five words of 59. and not the nature of the thing, though there be a little difference from the <hi>Pſalm.</hi>
+                  </p>
+                  <p n="3">3. As to your quotation out of <hi>Mat.</hi> 27. I can give you the ſame Anſwer, but adde withal, it ſeems I muſt needs take your Reconciliation of the Texts, when I may make bold to tell you, as Learned men as your ſelf <hi>(Salvà Reverentià)</hi> have other no<g ref="char:EOLhyphen"/>tions of that Text. See <hi>
+                        <g ref="char:V">Ʋ</g>oetius diſp. Selat. l.</hi> 1. <hi>p.</hi> 159. <hi>Salomon Glaſſius. Philolo. lib.</hi> 2. <hi>p.</hi> 156. So that your example fails. How well you have cleared your Liturgy, and deſervedly charged your Adverſary with <hi>Impudence, Ignorance,</hi> and <hi>Blasphemy,</hi> Let the Reader judge.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>Sectio tertia.</head>
+                  <p>AFter this from <hi>p.</hi> 26. to <hi>p.</hi> 35. he fills his pages with his Rhe<g ref="char:EOLhyphen"/>torical Encomiums of his Liturgy, and then Anſwers other Objections, ſo methodical is this Rhetorician. <hi>Some diſcreet re<g ref="char:EOLhyphen"/>gulation in the Muſick he will allow.</hi>
+                  </p>
+                  <pb n="19" facs="tcp:61483:22"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object </seg>3</label> What this <hi>ſinging of ſervice</hi> is, I cannot tell,
+<note place="margin">
+                        <hi>p.</hi> 35.</note> I was never ac<g ref="char:EOLhyphen"/>quainted with places where this Trade is ſet up, I ſuppoſe none ſo void of Chriſtian Reaſon to ſing any thing but <hi>Pſalms, Hymns,</hi> or <hi>Spiritual Songs</hi> in the Church. Now as to Muſick, if the Doctor means only <hi>
+                        <g ref="char:V">Ʋ</g>ocal,</hi> I ſhall declare my opinion thus, I could hear<g ref="char:EOLhyphen"/>tily wiſh, That in all Churches we had ſome perſons that had good voices, and skilful to ſing their parts when we ſing Pſalms. I think it doth very much help to the very nature of the Ordinance, that men ſhould skilfully ſing, to help raiſe the Affections, and not to make a <hi>ſhreaming</hi> inſtead of <hi>ſinging.</hi> If the Doctor contends for <hi>Inſtrumental</hi> Muſick, I ſhall only deſire him to Anſwer <hi>Aquinas, Sum. 2a. 2ae. q</hi> 91. <hi>a.</hi> 2. againſt it.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>4</label> The Fourth <hi>Objection</hi> ſome make againſt the Liturgy, is, the <hi>Ceremonies,</hi> concerning which, <hi>p.</hi> 36. he tells us his Opinion after the old faſhion in Rhetorick, but in <hi>p.</hi> 38. his zeal breaks out, tel<g ref="char:EOLhyphen"/>ling us, <hi>This National Church, as all others have power and autho<g ref="char:EOLhyphen"/>rity from God to judge what is decent, as to any Ceremony in the wor<g ref="char:EOLhyphen"/>ſhip of God, which God hath left indifferent in its nature, which the conſent of the major part of the Church, &amp;c. may enjoyn, &amp;c. and that this is moſt true and undeniably to be maintained even to the death;</hi> he is ſo tedious, that I am weary with tranſcribing.</p>
+                  <p>What? Is it not only true, but <hi>moſt</hi> true? I know one thing <hi>truer</hi> Doctor, and what to <hi>be maintained to the death?</hi> Biſhop <hi>Wren,</hi> give him a clap on the back for this Heroick Sentence, we ſhall have a Ceremonious <hi>Martyr</hi> at laſt, but Doctor it ſhal be, you ſhall maintain it to the death for me. Reader, if you have better eyes than I, pray ſee if you can find what Texts of Scripture he brings for this bold Aſſertion, and why a National Church may do this, more than the Church of <hi>Corinth, Philippi, Epheſus, &amp;c.</hi> elſe it may be if we ſay theſe Apoſtolical Churches know their power as well as Dr. <hi>Gauden,</hi> yet in them we find no ſuch Cere<g ref="char:EOLhyphen"/>monies as in our Liturgy, and if they be uſeful for us, they were for them; it may be if we urge this, he will tell us they were in<g ref="char:EOLhyphen"/>deed Apoſtolical, but not National Churches, and could not: but prove that.</p>
+                  <p>As to this Queſtion, I only hear of excellent books written a<g ref="char:EOLhyphen"/>bout it, my purſe and diſtance cannot reach them; but ſuch they
+<pb n="20" facs="tcp:61483:23"/>are in the judgement of underſtanding men, as they are not An<g ref="char:EOLhyphen"/>ſwered, ſo never can be from Scripture and ſound reaſon, but by the old way of <hi>Priſons</hi> and <hi>ſilencing.</hi>
+                  </p>
+                  <p>Only a word to the Dr. in <hi>pag.</hi> 36. You ſay theſe Ceremonies are ſignal marks of <hi>Faith, Humility, Purity, Courage, &amp;c.</hi> I pray, to your <hi>Decencie,</hi> and <hi>Significancy,</hi> add <hi>Efficacy,</hi> and to Efficacy. <hi>Neceſſity,</hi> as it was of old, and ſo without them no Ordinances, nor Miniſtry, then you are right.</p>
+                  <p>They are <hi>indifferent</hi> before <hi>enjoyned,</hi> but what are they when <hi>enjoyned?</hi> I have read <hi>Neceſſary;</hi> give me leave to ſay, <hi>What God hath left indifferent in his Church in matters of Religion (I do not ſay in common Humane Society, and things of civil order, wherein I confeſs the Magiſtrate may direct and reſtrain) it is not in the power of any creature to make neceſſary.</hi> That creature who doth it, takes one ſtep above God; for God le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ves <hi>liberty,</hi> you will not allow it: If a Lord ſhould leave it indifferent to his Servants to wear what coloured Cloaths they would (ſo not fooliſh) and the Steward will force them all to wear <hi>White,</hi> or put them out of his Service, is not this Steward above his Lord? What is any creature but a ſteward to God?</p>
+                  <p>I cannot ſee but ſuch a creature takes as much upon him as God did; for take all the Ceremonies of the old Law, conſi<g ref="char:EOLhyphen"/>der them abſtractedly from Gods command, they were as indif<g ref="char:EOLhyphen"/>ferent as your Ceremonies, there was no goodneſs in them, why God did command them, when they were in the higheſt uſe of them; as ſuppoſe in their day of Atonement, if God had de<g ref="char:EOLhyphen"/>clared that he repealed his command concerning all thoſe Cere<g ref="char:EOLhyphen"/>monies, in that very <hi>Inſtant,</hi> they had been all indifferent to any uſe: What difference between the High Prieſts Garments, and your Surplice, as to their own abſtracted nature? I know no Moral good in one more than the other; And truly if you can ordain things in the worſhip of God, which ſhall <hi>ſignifie</hi> ſpiritual things, and ſhall have in them an aptneſs and <hi>Efficacy,</hi> to ſtir up our dull minds (as you were wont to ſay) and now theſe <hi>muſt</hi> be uſed, for being enjoyned they are neceſſary, I cannot ſee how much you are inferiour to God: only thus indeed, God did not make a ſign of a ſign, as you do in the Croſs., move a mans finger over the face of a Child, and ſay, <hi>I ſign with the ſign,</hi> when there is no ſign at all left, for Courage,
+<pb n="21" facs="tcp:61483:23"/>Conſtancy and Faith, and I know not what; but no more of this, I pray Anſwer the Books upon this Que<g ref="char:EOLhyphen"/>ſtion.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>Sectio quarta.</head>
+                  <p>HIS third Conſideration about the Liturgy, is,
+<note place="margin">He comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nds Liturgy.</note> His high com<g ref="char:EOLhyphen"/>mendation of it; and here I muſt go ſearch up and down to get things into a method; I will do it as well as I can.</p>
+                  <p>
+                     <hi>Firſt,</hi> He commends it <hi>from the efficient cauſes of it; theſe were</hi> (ſaith he) <hi>Martyrly men who compoſed our Liturgy.</hi> p. 3.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Did Martyrly men compoſe it all? you will not ſay ſo I hope; I think the Romiſh Party did much of it, from whom they took it.</p>
+                  <p>
+                     <hi>Secondly,</hi> However <hi>diſtingue tempora;</hi> they came new out of Pope<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, the Nation wedded to that Whore; in a time when there were not ſo many well-qualified Miniſters in the whole King<g ref="char:EOLhyphen"/>dom, as were lately in one City, that of <hi>London:</hi> Rare to find a <hi>Pulpit with a Clapper</hi> (ſaid father <hi>Latimer;</hi>) forced to admit meer reading Proteſtants well-affected to the true Religion into the Miniſtry. But, what muſt we enjoy the Goſpel an hundred years, and men not grow in knowledge, gifts and grace? Will you ſhame the Goſpel, Promiſes, and Engliſh Chriſtians? Muſt they be ever children? I am confident if thoſe worthy men were now alive, and knew what the Lord had done for the Engliſh Miniſtry, they would abhor to impoſe, as you would have the <hi>Liturgy</hi> impoſed; only this remember, we honour thoſe Martyrly men more than many of your perſwaſion have done, or do, it were well if all abhor<g ref="char:EOLhyphen"/>red that Biſhop of <hi>Rome</hi> as they did.</p>
+                  <p>
+                     <hi>Secondly,</hi> He commends it from the Matter; the <hi>excellent matter, for the main muſt ſtill be retained,</hi> p. 3. If it be on<g ref="char:EOLhyphen"/>ly the <hi>excellent Matter,</hi> let it ſtand; but if you will only purge ſome <hi>verbal defects</hi> as you ſay, I fear you will leave ſomething that is not excellent. <hi>The Reaſons ſhewing the neceſſity of Re<g ref="char:EOLhyphen"/>formation,</hi> &amp;c. publiſhed by divers Miniſters, ſhew more than
+<pb n="22" facs="tcp:61483:24"/>
+                     <hi>verbal defects.</hi> I pray anſwer that Book like a Divine and Lawyer: Mr. <hi>Powel,</hi> with whom, though I agree not in all things, hath obſer<g ref="char:EOLhyphen"/>ved ſixty nine offenſive things in that Liturgy, you may pleaſe to conſider them.</p>
+                  <p>Thirdly, Whereas great offence hath been taken at the Form of it, <hi>popular reſponds, verſicles, intermixtures, abbreviations, ab<g ref="char:EOLhyphen"/>ruptions, ſtops,</hi> with a preſent poſting on again with a <hi>Let us pray,</hi> when prayer before was in hand.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>Thirdly,</hi> Now he commends it from this <hi>Form,</hi> the <hi>popular reſponds,</hi> pag. 34. which he calls <hi>the Ecchoes of humble and intent affections,</hi> and <hi>in the two honourable Temples finds, they excite the Miniſters affections, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Yea Sir, your Templars are Lawyers I ſuppoſe; and as for Lawyers, unleſs they be a very few, they are crucified men to the World, they keep firm to their Baptiſmal Covenant, <hi>forſaking the Devil and all his works, the vain pomp,</hi> &amp;c. But in other Congregations, where we have perſons very vain, love money abhominably, drink Sack like fiſh, and very Drunkards, rap out Oaths commonly, unclean, ſcoff at the power of their own pro<g ref="char:EOLhyphen"/>feſſed Religion; to have ſuch as theſe in our Congregations, only to make the reſponds, when godly men will not come at us to hear the Service; this makes a Miniſters ſtomack ſick, inſtead of quick<g ref="char:EOLhyphen"/>ning his affections.</p>
+                  <p>Secondly, I pray Sir, can you prove that this was the Form the Lord appointed <hi>at his Temple?</hi> I have read in the Word, of the peeples ſaying, <hi>Amen;</hi> but I never read this kind of worſhip.</p>
+                  <p>Thirdly, Then it ſeems the Miniſter is not the mouth of the people, their own mouths ſpeak for themſelves; and why ſhould not the Miniſter ſay <hi>Amen</hi> to their prayers?</p>
+               </div>
+               <div n="5" type="section">
+                  <head>Sectio quinta.</head>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4thly. HE commends it from the <hi>final Cauſe;</hi> the more <hi>August and Reverent worſhip of God,</hi> &amp;c. <hi>of which before;</hi> only <hi>pag.</hi> 27. I find another, it is <hi>to be the
+<pb n="23" facs="tcp:61483:24"/>main Standard, Teſt and meaſure of our publick Devo<g ref="char:EOLhyphen"/>tion.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> I pray open your meaning; what is the <hi>Teſt</hi> and the <hi>Matter</hi> of it? I pray firſt make it pure; and when it is purged, yet we abhor to give that honour to your. Book, which is due to the <hi>Lords prayer,</hi> and the <hi>Word of God onely.</hi>
+                  </p>
+                  <p>But do you mean the <hi>Form</hi> of it? then it ſeems we muſt make our prayers with <hi>popular reſponds, intermixtures, abruptions,</hi> &amp;c. It's our <hi>meaſure</hi> you ſay; How is that, as on a Yard-wan? they have one Nail, two Nails, a quarter of a Yard, &amp;c. ſo they meaſure cloth: So if we will make a prayer of three ſhort lines, or ſix, &amp;c. we muſt meaſure by this, where we have variety of lengths, and thus we muſt make various prayers ſutable to this main Standard; what elſe you intend I know not by your <hi>Mea<g ref="char:EOLhyphen"/>ſure.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                     <hi>Fifthly,</hi> He commends it from the <hi>effects,</hi> pag. 12, 13, 18, 33. <hi>It is the Bulwark againſt,</hi> firſt, <hi>Romiſh Superſtition, as the Maſs and Popery.</hi>
+                  </p>
+                  <p>
+                     <hi>Firſt,</hi> For the <hi>Maſs, while Bread and Wine are ſo conſecra<g ref="char:EOLhyphen"/>ted and communicated, as in the Liturgy, we ſhall for ever keep out the Maſſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. What the Doctor means by <hi>Conſecration,</hi> I know no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; how others underſtand it, I know: but I can ſee nothing in the Book that is done to keep out <hi>Maſſe,</hi> that is not done by other Miniſters, who yet ſtumble at a Liturgy impoſed upon all; a ſtrange Argument, that onely by <hi>reading</hi> of the words the <hi>Maſs</hi> is kept out, elſe nothing that makes againſt the <hi>Maſs</hi> in it, but we uſe.</p>
+                  <p>Secondly, But doth not your Book by commanding <hi>kneeling,</hi> do ſomething which may help in the <hi>Maſſe;</hi> till <hi>Tranſubſtantia<g ref="char:EOLhyphen"/>tion</hi> began to be ſtarted, <hi>kneeling</hi> was not known; you know the <hi>geſture</hi> for ſome hundred years was quite oppoſite.</p>
+                  <p>
+                     <hi>Secondly,</hi> it is <hi>a Bulwark against Popery,</hi> he ſaith.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. How then did Biſhop <hi>Davenant</hi> prove Papiſts
+<pb n="24" facs="tcp:61483:25"/>ought to be compelled to come to Church; for as to our Liturgy he ſaith,
+<note place="margin">
+                        <hi>Determ.</hi> 27.</note> 
+                     <hi>What is there in it that is not approved of Papiſts them<g ref="char:EOLhyphen"/>ſelves,</hi> which he thus confirms, <hi>That ſome of the Biſhops of</hi> Rome <hi>have offered to approve our Form of prayers, provided we would ac<g ref="char:EOLhyphen"/>cept it by their Authority.</hi>
+                  </p>
+                  <p>Secondly, Why then ſaid one of your Biſhops, <hi>The Service<g ref="char:EOLhyphen"/>book of the Church of</hi> England <hi>was now ſo dreſſed, that if the Pope ſhould come and ſee it, he would claim it as him own, but that it is in Engliſh.</hi> Yea, the Papiſts boaſted it was a compliance with them, <hi>&amp;c.</hi>
+                  </p>
+                  <p>You would ſeem to be afraid of Popery, I know who is; and he that reads Biſhop <hi>Bramhal</hi>'s book, printed at the <hi>Hague,</hi> will fear more.</p>
+                  <p>Why then was that paſſage left out in this Liturgy againſt the Pope; which, with divers other things makes us ſure, this is not the <hi>Liturgy</hi> which the Law eſtabliſhed.</p>
+                  <p>
+                     <hi>Thirdly,</hi> It is <hi>a Bulwark againſt Anabaptiſm,</hi> for <hi>it main<g ref="char:EOLhyphen"/>tains Baptiſmal Regeneration;</hi> and this you are forced firſt to prove as well as you can, knowing it is one of the things that give offence, and will do. Had you carried this ſtoutly, I would have given you many thanks, and ſaid it was a ſtrong Argument; though it doth not follow we muſt be tied to a Book.</p>
+                  <p>I obſerve two things in your diſcourſe:</p>
+                  <p n="1">1. You give this Regeneration to all <hi>Infants</hi> baptiſed.</p>
+                  <p n="2">2. You mention nothing of the Parent. Then briefly I anſwer.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Why then did Dr. <hi>Gauden</hi> refuſe to baptize the Infant of a Parent (being abominably ignorant) in his Pariſh, till the Parent got ſome knowledge? (I am certain of the truth of this) what wrong did he to the Child, by refuſing to put it in<g ref="char:EOLhyphen"/>to a Regenerate and ſaved Eſtate, by refuſing to Baptize it? What if the child had died.</p>
+                  <p>
+                     <hi>Secondly,</hi> You allow a perſon in a Regenerate and ſaved eſtate, and yet falling from that ſtate you cannot ſave this.</p>
+                  <p>
+                     <hi>Thirdly,</hi> Infants, <hi>as</hi> Infants, are the ſubjects of Baptiſm, they need no depending Title; I thought <hi>Abrahams ſeed</hi> (viſibly ſo) had been the ſubject.</p>
+                  <pb n="25" facs="tcp:61483:25"/>
+                  <p>
+                     <hi>Fourthly,</hi> Though natural affection work, yet who in his judg<g ref="char:EOLhyphen"/>ment loving the ſoul of his Child, would not wiſh it might die, when it is under a certainty of ſalvation?</p>
+                  <p>
+                     <hi>Fifthly,</hi> Though all the Ordinances of God are honourable, yet <hi>Baptiſm</hi> ſurpaſs them all; for that puts <hi>all</hi> ſuch Subjects into a certainty of ſalvation; but the <hi>Word preached</hi> doth little: <hi>Paul</hi> did not ſpeak right, when he ſaid he was ſent, not to <hi>baptize,</hi> but to <hi>preach;</hi> the firſt ſaved all, if died in ſuch a ſtate. Theſe are my ſudden thoughts, but I pray view Mr. <hi>Gataker</hi> his <hi>Stricturae</hi> upon Biſhop <hi>Davenants</hi> Epiſtle to Dr. <hi>Ward</hi> about this queſtion, and anſwer him; when I read him long ſince he gave me ſatisfa<g ref="char:EOLhyphen"/>ction. It is true, he was one of the Members of that illiterate Aſſembly that Dr. <hi>Gauden</hi> ſo much uſeth to deſpiſe, and that in his <hi>Looſing Peters Chains;</hi> but though he did not wear a long Scarf, he need not go to School to Dr. <hi>Gauden;</hi> no more needed Dr. <hi>Twiſs,</hi> nor Dr. <hi>Reynolds,</hi> Members of the ſame Aſſembly; but if the Doctor will ſwagger with his <hi>Rabbinical</hi> Learning, let him help Dr. <hi>Lighfoot</hi> (another Member) a little, and he will talk with him; many other men there were of excellent worth, for Learn<g ref="char:EOLhyphen"/>ed, Orthodox, and truly plous men that underſtand the Goſpel, and live accordingly; I fear the like Aſſembly will not be in ours, nor in our Childrens dayes; they get no honour who deſpiſe that Aſſembly.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>Sectio ſexta.</head>
+                  <p n="2">2ly. THE next Effect of the Liturgy is this; <hi>it unites the King and the People;</hi> and this Reaſon he urgeth, ſo that on the contrary, he ſaith, Subjects cannot be ſo <hi>tite, firm, zealous, chearful, nor constant in our Loyalty and Love to our Soveraign;</hi> a heap of words, <hi>pag.</hi> 28.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. What mean you Doctor, to create jealouſies between the King and his Subjects, when He is newly come to His Throne, <hi>the Lord rebuke you?</hi> Why then did you take the Covenant (ſo croſs to what now you practice) the removal of the Liturgy was in purſuance of the Covenant, as both Houſes declared; becauſe you can bring no Scripture-proof, you go to <hi>State-policy;</hi> but let us weigh him.</p>
+                  <pb n="26" facs="tcp:61483:26"/>
+                  <p>
+                     <hi>Secondly,</hi> Why not then the ſame Sermon that is preached before the King, and the ſame prayer the Miniſter makes before Him? that there be nothing in all the Worſhip of God, through his Kingdoms, but <hi>verbatim,</hi> the ſame that is before the King: This uniformity is ſtronger.</p>
+                  <p>
+                     <hi>Thirdly,</hi> It is true, in were a deſirable thing if the King and His Subjects could agree in every punctilio of Religion, Doctrine and Worſhip; but His Majeſty knows it is impoſſible, and that He, though our King, is a Subject to God as well as we; there is dark<g ref="char:EOLhyphen"/>neſs abides upon us in ſome degree while we are here; but if we be united to our King in the ſound Doctrine of the Church of <hi>England,</hi> as we are, and the ſame Ordinances of God owning all; if in leſſer matters and circumſtances there be various apprehen<g ref="char:EOLhyphen"/>ſions upon conſcientious grounds, Can we not be firm to Him in <hi>Love</hi> and <hi>Loyalty?</hi>
+                  </p>
+                  <p>
+                     <hi>Fourthly,</hi> As to prayer: Is it not ſufficient that we pray for the <hi>ſame things,</hi> and for His <hi>Majeſty,</hi> much more enlarged, than in the <hi>Liturgy,</hi> unleſſe we uſe juſt the ſame <hi>words and ſyllables?</hi> You can allow men to uſe other words, and contract places of Scripture, which the great God inſpired, and commanded ſo to be written (as I inſtanced before in your Liturgy) and yet we muſt be tyed to mens words.</p>
+                  <p>I think our hearts were united to him in Love and Loyalty, when we poured out our ſouls for him under his affliction without a Common-prayer Book.</p>
+                  <p>
+                     <hi>Fifthly,</hi> The union between King and Subjects is then ſureſt, when he hath the <hi>hearts</hi> of his Subjects united to him; His Ma<g ref="char:EOLhyphen"/>jeſty took a better courſe for this <hi>heart-union</hi> by His Declaration from <hi>Breda:</hi> I am ſure no King ever had the hearts of his Subjects more united to Him, than He had by that; not that His Majeſty is bound by that to tolerate every one who pretends <hi>conſcience,</hi> then He muſt ſin in tolerating the vileſt <hi>Hereſies,</hi> and thoſe who deſpiſe and caſt off all the Ordinances of God, and Civil Govern<g ref="char:EOLhyphen"/>ment alſo.</p>
+                  <p>
+                     <hi>Sixthly,</hi> The King of <hi>France</hi> hath thoſe who are <hi>Loving</hi> and <hi>Loyal</hi> to Him, unleſſe you will condemn all the Proteſtants there; yet I hope they uſe not the ſame <hi>words</hi> in their Worſhip that are uſed before the King: How much more we, who are of the ſame Proteſtant Religion with our King, and uſe the ſame
+<pb n="27" facs="tcp:61483:26"/>worſhip only, though we expreſs the ſame things in different words.</p>
+                  <p n="7">7. God hath the hearts of People in his hand, and can turn them to their Prince as he pleaſe; and the beſt way for that, I think, is both for King and Subjects to keep cloſeſt to him and his worſhip, according to his own Inſtitution, which if your Liturgy only be, and you can prove it, you need ſay no more, but for this Argument Doctor, you get no hearts I am ſure from the Kings Subjects. If a man look back to the times of our troubles, what began them? you may remember what made theſe unhappy brea<g ref="char:EOLhyphen"/>ches, your Argument is experimentally confuted.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>Sectio Septima.</head>
+                  <p n="6">
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. THe next Topick he argues, the excellency of it is <hi>ab oppoſi<g ref="char:EOLhyphen"/>tis.</hi> Firſt, here I think he doth notably laſh thoſe who laid it aſide; but the efficient Compoſers, they were Martyr<g ref="char:EOLhyphen"/>ly men, but the efficient Depoſers, who are they? we know they were both Houſes of Parliament, as the <hi>Ordinan.</hi> 3. <hi>Jan.</hi> 1644. de<g ref="char:EOLhyphen"/>clares, and none elſe but thoſe could lay it aſide (I mean no pri<g ref="char:EOLhyphen"/>vate perſons) but let us hear the Doctor. <hi>And we ſee this piece of po<g ref="char:EOLhyphen"/>licy wat early uſed by ſome Jeſuitick Engines to foment our ſad Di<g ref="char:EOLhyphen"/>viſions, the Liturgy muſt be laid aſide, &amp;c. p.</hi> 30. If the Doctor will ſtoop ſo low to read the Ordinance of Parliament, and the Pre<g ref="char:EOLhyphen"/>face of the Learned (for ſo I call it) Aſſembly to the Directory, there read the Jeſuitick Engines. Were thoſe men Jeſuits?</p>
+                  <p n="2">2. He argues from the contrary evil effects which have followed ſince the Liturgy was laid aſide: Theſe effects he tells us are <hi>Er<g ref="char:EOLhyphen"/>rors, Ignorance, Prophaneneſs, &amp;c.</hi> p. 11, 12, 32, 33.</p>
+                  <p>
+                     <hi>Anſw.</hi> True, too many errors, and too much profaneneſs we have known; but did they riſe from this being laid aſide? ſurely you miſtake.</p>
+                  <p>For <hi>Errors.</hi> Firſt, Let us ſee whether the uſe of it now will hinder <hi>Arminianiſme</hi> from ſpreading; I am ſure we have good ſtore of thoſe who are deeply engaged in thoſe Opinions, and they are croſs to ſeveral Articles of the Church, ſo that I think
+<pb n="28" facs="tcp:61483:27"/>they are Errors, unleſs the Articles be erroneous; I ſpeak of <hi>your</hi> Clergy. Why are theſe men ſo zealous for it?</p>
+                  <p n="2">2. Fewer Errors in <hi>Scotland,</hi> than have been in <hi>England</hi> fifty years, and yet they will not own our Liturgy.</p>
+                  <p n="3">3. The preſſing of this Liturgy and other humane Inventions, have m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de, and will make people ſeparate from publick worſhip, and te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ching, into Corners, which at firſt gave the occaſion to breed and foment many Errors.</p>
+                  <p n="2">2. As for <hi>Ignorance and Profaneneſs.</hi>
+                  </p>
+                  <p n="1">1. Go to the Pariſhes where the Liturgy hath been moſt uſed, and ſee if Ignorance and Profaneneſs be not there more than in o<g ref="char:EOLhyphen"/>ther Pariſhes.</p>
+                  <p n="2">2. Were it not for that I intend but a ſhort diſcourſe, I would have given you ſuch inſtances of Ignorance; and of profaneneſs, in ſome perſons who have been devoted to your Liturgy in theſe divided times, inſomuch that they abhorred ſo much as to ſuffer any of their ſervants to hear a Presbyterian, yet their profaneneſs ſuch that is ſcarce found amongſt Heathens, and ignorance in others as abhominable.</p>
+                  <p n="3">3. If among private Chriſtians who refuſe the Liturgy, I find not many, who in the great points of <hi>Regeneration, Faith in Christ, Juſtification,</hi> and all the main practical points ſhall give a better account, and in gifts of prayer, far exceed many hundreds of your Liturgical Miniſters, then I will bear the ſhame: Indeed for ſome Terms about the Trinity, as <hi>Subſiſtentia, per<g ref="char:EOLhyphen"/>ſonum modus, ſuppoſitum,</hi> they underſtand not, nor do many of your Curats, but elſe ſound in the Trinity, <hi>&amp;c.</hi> How then is the laying aſide of the <hi>Liturgy</hi> the cauſe of this Ignorance? And for their Converſations, few of your Liturgical-men muſt come near them for holineſs.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>Sectio Octava.</head>
+                  <p n="7">
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. NExt he argues the Excellency of it <hi>à comparatis:</hi> And here Firſt, He compares it with the <hi>Directory.</hi> p. 6, 7. which he adorneth with theſe Epithites: <hi>
+                        <g ref="char:V">Ʋ</g>ſeleſs, Suppoſitious, Looſe, Illegitimate.</hi>
+                  </p>
+                  <pb n="29" facs="tcp:61483:27"/>
+                  <p>
+                     <hi>Anſw.</hi> Doctor, theſe are but four Epithites, have you no more? add as many more, or as many as you will, yet I muſt tell you, there is ſo much Chriſtian, grave, and wiſe counſel, in order to the Worſhip of God, there is ſo much divine ſolidity in that Book, that no judicious godly Chriſtian will be beaten out of love with it by all your flaſhy Rhetorick: Let but a man who knoweth God, the work of Grace on his heart, and hath judgment to diſcern the nature of an Ordinance, but compare, I know where he will ſee the difference. As for the <hi>Confeſſion</hi> of Faith, the <hi>Ca<g ref="char:EOLhyphen"/>techiſm,</hi> the <hi>Directory,</hi> made by that Aſſembly (of which Doctor <hi>Reynolds</hi> was one) let your new Epiſcopal men ſit till doomſday, they will never mend them.</p>
+                  <p>He tells us of <hi>a wilderneſs of ſin, ſtings of fiery Serpents, vene<g ref="char:EOLhyphen"/>mous Inflammations, &amp;c. that followed upon the removing of the Liturgy, and bringing in the Directory.</hi> Ibid.</p>
+                  <p>But, Sir, your Liturgy and the Directory reſpect the worſhip of God, have the evills you ſpeak of befallen thoſe who cleave faſt to the <hi>Directory?</hi> Name one; but if men never obſerved the Directory, is the fault in that? Thus you ſtumble upon the fallacy of <hi>non Cauſae pro Causâ.</hi>
+                  </p>
+                  <p n="2">2. He compares it with all the gifts of other Miniſters, this is frequent, and exalts it above the gifts of <hi>any Miniſter, pag.</hi> 9. I give no anſwer to this, the naming of it is enough to refute it.</p>
+                  <p n="8">
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> 8. He comes to his <hi>inartificial Argument,</hi> and will prove the excellency from <hi>Teſtimony,</hi> which were worth all he hath writ, both in this book and all the reſt; if it were certain the Witneſ<g ref="char:EOLhyphen"/>ſes he alledge would give in the <hi>Teſtimony</hi> he ſuppoſeth: For thus, <hi>p.</hi> 34. he writes, <hi>Nor can I believe but that the bleſſed A<g ref="char:EOLhyphen"/>poſtle St.</hi> Paul, <hi>if living, and the other Apoſtles would have joyned with it, and ſaid</hi> Amen; <hi>Rejoycing to ſee the ſoundneſſe of our Faith, the Sanctity of Sacraments, the <g ref="char:V">Ʋ</g>nity of Devotion, the Order and Decency of holy Duties,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> Theſe bleſſed men are in Heaven, how ſhall we know their minds? <hi>We need not aſcend to know, the word is near, Rom.</hi> 10.8. To <hi>Paul</hi> then let us go, who <hi>Act.</hi> 20.27. when he ſent for the <hi>Elders</hi> of <hi>Epheſus</hi> (whom alſo he calls <hi>Biſhops,</hi> making
+<pb n="30" facs="tcp:61483:28"/>no difference) he tells them, <hi>I have not ſhunned to declare unto you all the counſel of God.</hi> That <hi>Counſel</hi> it ſeems taught not him to ſet up a Biſhop above a Presbyter, neither now, nor when he wrote to <hi>Timothy</hi> and <hi>Titus,</hi> I never thought of any diffe<g ref="char:EOLhyphen"/>rence, will holy <hi>Paul</hi> ſay, if I had, I would have ſomewhere ap<g ref="char:EOLhyphen"/>propriated the word <hi>Biſhop</hi> to a diſtinct Officer, as though in ſome places I call my ſelf a <hi>Miniſter,</hi> yet in others I ſay I am an <hi>Apoſtle.</hi> I told this Church, <hi>Eph.</hi> 4.11. what Officers Chriſt ap<g ref="char:EOLhyphen"/>pointed, and ſo 1 <hi>Cor.</hi> 12.28. But I find amongſt you <hi>Arch-Biſhops, Lord-Biſhops,</hi> above Presbyters, <hi>Deans, Arch-Dea<g ref="char:EOLhyphen"/>cons, Prebends, Chancellors, Chapters,</hi> &amp;c. I never declared the Counſel of God for ſuch Officers; theſe are your <hi>own Counſel</hi> ſure enough.</p>
+                  <p>Nor did I, will St. <hi>Peter</hi> ſay, for <hi>Epiſt.</hi> 1. <hi>chap.</hi> 5. <hi>verſ.</hi> 2. I thought Biſhop and Presbyter to be the ſame, and appointed them the ſame work.</p>
+                  <p n="2">2. I declared <hi>all the counſel of God;</hi> but I never told you it was his mind to Conſecrate a Day to God for the Nativity of Chriſt. Surely God hath revealed more of his Counſel to you than to me, if it be his mind, yet the cauſe was exiſtent in my time, and I ſuppoſe I loved Chriſt as well as Dr. <hi>Gauden.</hi>
+                  </p>
+                  <p n="3">3. I find you are impoſing of your Forms of prayer on the ableſt Miniſters of God, to whom he hath given both ſufficient gifts, and a Spirit to aſſiſt, as I delivered in the Goſpel: Had not I, and my fellow-Apoſtles, as much authority and wiſdom as you, but neither I nor they had ever ſuch <hi>Counſel from God,</hi> nor did we ever impoſe ſuch Forms upon the Churches; though we often called for <hi>Unity</hi> in Doctrine and Affections, yet not in the ſame ſyllables in prayer; whence had you this counſel?</p>
+                  <p n="4">4. I find you are in matters of Religion <hi>preſſing</hi> things <hi>in<g ref="char:EOLhyphen"/>different</hi> on Miniſters and Chriſtians; my <hi>Doctrine, Rom.</hi> 14.20.21. and my <hi>Practice,</hi> 1 <hi>Cor.</hi> 8.13. you may find quite con<g ref="char:EOLhyphen"/>trary.</p>
+                  <p>I find you are urging of <hi>Ceremonies.</hi> Had not I and the other Apoſtles as much Authority to invent and impoſe Ceremonies as you? Are you the men who only care for the <hi>Decency</hi> of worſhip, and were we onely careleſſe? Were not we as induſtrious and ſtu<g ref="char:EOLhyphen"/>dious to advance the honour and worſhip of God, good of Souls,
+<pb n="31" facs="tcp:61483:28"/>as you? but we dare not act but as we had <hi>Counſel from God.</hi> I have declared the mind of God, <hi>Col.</hi> 2.20, 23. concerning ſuch <hi>Ordinances</hi> of men, and call them <hi>Will-worſhip.</hi> We know God hath not remitted his jealouſie in the ſecond Commandment. As for our Commiſſion it ran thus, <hi>Matth.</hi> 28.20. <hi>Teaching them to obſerve all things whatſoever I have commanded you;</hi> but you turn the Commiſſion thus, Teach them <hi>to obſerve all things</hi> (in my worſhip) <hi>whatſoever I have not forbidden,</hi> and that in <hi>par<g ref="char:EOLhyphen"/>ticular</hi> alſo; elſe you might know I have forbidden the <hi>Doctrines of men</hi> in general, <hi>Mar.</hi> 7.7. and the ſecond Commandement ſhould tye you cloſe to my Inſtitutions.</p>
+                  <p>To conclude theſe things, I find amongſt you; after a ſo<g ref="char:EOLhyphen"/>lemn Covenant made on the contrary, and for extirpation of theſe your humane inventions: I am not of your <hi>Faith</hi> Doctor, that <hi>Paul</hi> would rejoyce, but would ſend you ſuch a kind of Epi<g ref="char:EOLhyphen"/>ſtle as he did to the <hi>Galatians.</hi>
+                  </p>
+               </div>
+               <div n="9" type="section">
+                  <head>Sectio Nona.</head>
+                  <p>THus I have done with all the ſtrength I can find in his Book; onely <hi>p.</hi> 31. he ſtrains his Rhetorick to the heighth to ſet out the expcellency of the <hi>Liturgy,</hi> and the miſchief that muſt befall us if it be not impoſed; I will not weary my ſelf to tranſcribe all his words, thus he begins, <hi>Nothing will be conſiderable in</hi> England <hi>for publick piety, honour, order, beauty, &amp;c. if in this point of publick Devotion, Miniſters and People be left to eternal variations,</hi> &amp;c. And in the cloſe of it thus; <hi>Farewel the Glory; Charity, Unity, and Safety of</hi> England; <hi>farewell both Reformation and true Religion.</hi>
+                  </p>
+                  <p>Give the Orator a <hi>Humm,</hi> but not very loud, for his Divinity deſerves a <hi>Hiſs.</hi> I ſhall conſider this preſently.</p>
+                  <p>The things which he touches collaterally, I thought to have ſpoken to; as the fault he finds with many Presbyterians for not uſing theſe words in Ordinations, <hi>Receive ye the Holy Ghoſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>p.</hi> 20. But I muſt now let it alone, onely leave this with him if he will pleaſe, or any of his perſwaſion to maintain this <hi>Theſis,</hi> viz. <hi>That Ordination by Presbyters is not Ordination according to the Scripture;</hi> if he can carry it, I will be ordained again; or if he
+<pb n="32" facs="tcp:61483:29"/>will prove thoſe words he hath mentioned to be <hi>eſsential, or ought to be uſed in Ordination.</hi>
+                  </p>
+                  <p>The other thing is, <hi>pag.</hi> 28. his calling for <hi>Coercive Autho<g ref="char:EOLhyphen"/>rity to be given to the Biſhops by the King.</hi>
+                  </p>
+                  <p>I cannot but ſmile to ſee how the <hi>ſtupendious vertue</hi> of Epiſcopacy to heal <hi>Schiſm,</hi> for which it was firſt invented by men, is now proved to be a fallacy. What will not great Titles, Lord<g ref="char:EOLhyphen"/>ſhips, and Riches do the work, but you muſt call for a Civil Law of the Nation? You uſe to laugh at the poor deſpiſed Presbyters; Had they a Law which you call for, they could have done ſome<g ref="char:EOLhyphen"/>thing: But will not all your greatneſs and favour of great men be ſufficient? you have ſhamed <hi>Epiſcopacy</hi> extreamly; for now we ſee it is the <hi>Law of the Nation,</hi> not your Epiſcopacy, which can heal our Schiſms, or do any good in the Church.</p>
+                  <p>Now I come to his Exhortation, to the reading of the Litur<g ref="char:EOLhyphen"/>gy, having before, <hi>pag.</hi> 5. charged Miniſters with <hi>peeviſhneſſe, in<g ref="char:EOLhyphen"/>gratitude, ſchiſmatical petulancy, pride,</hi> if now they were averſe; but <hi>pag.</hi> 41. he gives his <hi>Motives.</hi>
+                  </p>
+                  <p>One is, <hi>The remembrance of the ſore Tribulations which we have felt and fear'd.</hi>
+                  </p>
+                  <p>Very true, we do remember them, and have not forgot the cauſes of them, why did you not ſet them down? When we ſee the ſame things which afflicted the Church before, coming ſo near us again, we do fear it indeed.</p>
+                  <p>His other is, <hi>The Kings benignity and gentleneſſe,</hi> &amp;c. Bleſſed be God we have ſuch a King to ſtand between you and us, elſe we ſee how it would go quickly with us.</p>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut, Sir, we are at a ſtand about reading it upon theſe grounds.</p>
+                  <p>
+                     <hi>Firſt,</hi> Many are ſcrupulous about the lawfulneſſe of uſing ſuch Forms, being <hi>thus</hi> impoſed; for we find no Divine Authority for the impoſing ſuch Forms upon <hi>all</hi> men, becauſe the <hi>Holy Pen<g ref="char:EOLhyphen"/>men</hi>
+                     <pb n="33" facs="tcp:61483:29"/>were directed and inſpired by God to pen a prayer for the uſe of the Church at ſometimes; that therefore <hi>ordinary</hi> men may im<g ref="char:EOLhyphen"/>poſe their Forms on able men qualified by God, ſo as to take up moſt of the Ordinance of Prayer publickly, we think it to be a lame conſequence.</p>
+                  <p>You ſhould ſhew us what <hi>ordinary</hi> men made their Forms, and impoſed them on thoſe who were able to pray without them; as for your part you give not one Scripture-ground; and your Rea<g ref="char:EOLhyphen"/>ſons being weighed, are found very light.</p>
+                  <p>
+                     <hi>Secondly,</hi> Though His Majeſty hath <hi>declared,</hi> yet the Parlia<g ref="char:EOLhyphen"/>ment could caſt out His Declaration; and as for ſome of the Bi<g ref="char:EOLhyphen"/>ſhops, they can act contrary to His Declaration, impoſing the Ca<g ref="char:EOLhyphen"/>nonical Oath on ſome who have had His Majeſties Preſentation, and denying Inſtitution and Induction for refuſing it: Now we fear if we ſhould begin before the Book be throughly purged, we ſhall be forced to go forward, over ſhooes over Boots; and when we have blemiſhed our Miniſtry (which <hi>Paul</hi> was tender of) by beginning; if now we will not go through-ſtitch, the Biſhops will turn us out. For we cannot forget the High Commiſſion vio<g ref="char:EOLhyphen"/>lence uſed againſt ſober pious Conformiſts who did uſe the Rites directed in the Service-Book, and yet were cenſured for not pa<g ref="char:EOLhyphen"/>ſing it with the Prelates, to rail-in the Table, and bow to it, and uſe other Ceremonies not therein directed; nor yet the face of <hi>Bellum Epiſcopale</hi> animated by the hope of <hi>Scotlands</hi> receiving the Liturgy; nor the Plaints preſſed on the Parliament by multi<g ref="char:EOLhyphen"/>tudes oppreſſed with Biſhops, and humane inventions; to which, if men can now again return, I muſt conclude they ſhew themſelves very blame-worthy for raiſing ſuch ſtirs as were occaſioned by their preſſing groans.</p>
+                  <p>
+                     <hi>Thirdly,</hi> We find that ſome have begun to read where they thought they could moſt ſafely, according to His Majeſties Decla<g ref="char:EOLhyphen"/>ration; preſently, the Chriſtians who walked moſt cloſe with God, were offended, the Miniſters loſe their hearts; and other men, be<g ref="char:EOLhyphen"/>cauſe <hi>all is not read,</hi> they are offended alſo, and thus a man lo<g ref="char:EOLhyphen"/>ſes all.</p>
+                  <p>
+                     <hi>Fourthly,</hi> When I obſerve who they are that are ſo hot for this Liturgy, I find out abundance of men who can rap out Oaths, and ſuch as His Majeſties Excellent Proclamation againſt vicious profane perſons, would reach, theſe are very hot for it; ſome <hi>For<g ref="char:EOLhyphen"/>maliſts,</hi>
+                     <pb n="34" facs="tcp:61483:30"/>and but very few Chriſtians that know the power of god<g ref="char:EOLhyphen"/>lineſs, care for meddling with it; now I thus think with my ſelf, Can this be of God? what ſpirit Acts theſe profane ones, I know.</p>
+                  <p>Again, on the other ſide, If any men know the work of Re<g ref="char:EOLhyphen"/>generation, of Faith with power, and are afraid of ſin, walk up in good meaſure to Goſpel-Rules, have their Families in order, the body of ſuch people diſtaſte it: Now I am aſſured God gives his Spi<g ref="char:EOLhyphen"/>rit to his people; and it is ſomething to ſee the chief part of that people twenty to one decline it; I know not how to Anſwer this.</p>
+                  <p>
+                     <hi>Fifthly,</hi> From that Sacred Oath and Covenant, wherein we have ſworn to the moſt High God to <hi>endeavor the Reformation of his</hi> worſhip <hi>according to his</hi> Word, <hi>and the example of the beſt Reformed Churches.</hi>
+                  </p>
+                  <p>
+                     <hi>Firſt,</hi> As to the <hi>VVord of God;</hi> we know no Text of Scripture which will warrant this Mode of worſhip; we much deſire to have that <hi>VVord</hi> brought which will juſtifie a few ordinary men in their compoſing, and impoſing ſuch Forms upon the Churches, to hinder the gifts which God requireth to be in his Miniſters, and hath be<g ref="char:EOLhyphen"/>ſtowed on them, as in my firſt Reaſon.</p>
+                  <p>
+                     <hi>Secondly,</hi> Much leſs can we look on this Liturgy to be accord<g ref="char:EOLhyphen"/>ing to the Word, wherein we find ſo many things that agree not with the Word; the ſame humane Law which binds to <hi>one,</hi> binds to all things in it for ought I know.</p>
+                  <p>
+                     <hi>Thirdly,</hi> Yet further; when we find an <hi>humane conſtitution</hi> ſo cryed up, and Idolized, as if God had no true worſhip but that; Gods own Inſtitution [the brazen Serpent] when the people a<g ref="char:EOLhyphen"/>buſed it, <hi>Hezekiah</hi> brake in pieces, much more a <hi>faulty humane con<g ref="char:EOLhyphen"/>ſtitution;</hi> though Dr. <hi>Gauden</hi> ſticks not to compare it with the <hi>Ark of God.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly,</hi> As to the beſt Reformed Churches, to ſay which are the <hi>beſt,</hi> is very inconvenient; but this we know.</p>
+                  <p n="1">1. Some of them have no forms or Liturgies, nor will admit any.</p>
+                  <p n="2">2. Others who have ſuch, yet tie not up gifted men to theſe Forms as we are tyed.</p>
+                  <p n="3">3. Neither is our Liturgy ſo clear from offence as theirs are.</p>
+                  <pb n="35" facs="tcp:61483:30"/>
+                  <p n="4">4. The Parliament did aboliſh this Book in reference to the Reformation of the worſhip of God, according to their Cove<g ref="char:EOLhyphen"/>nant.</p>
+                  <p>Now for Miniſters who have not only taken the Covenant themſelves, but alſo given it to their people [as our Congregations have taken it in a Solemn manner, ſubſcribing their names alſo to it] bring in this Mode of worſhip again, at leaſt before it be throughly purged, I think we ſhould bring our ſelves and <hi>people</hi> upon the brink of perjury, if not perjured; not only our ſelves, but our <hi>people</hi> are concerned in this.</p>
+                  <p>
+                     <hi>Sixthly,</hi> To uſe this Book as it is, we cannot conceive but it is a way to blaſt our Miniſtry for ever doing good; for what may people ſay, Theſe Miniſters have taken a Covenant, and given it to us; they have laid by the Common-Prayer-Book in order to the Reformation of the worſhip of God, and now they turn to it a<g ref="char:EOLhyphen"/>gain! who will believe or regard theſe Miniſters, or Turn-Coats, in what they ſay? To be ſure it will weaken our Miniſtry much; and we ought to be wary of whatever might hinder it: And is it not one Reaſon why ſome men do ſo urge it upon Miniſters, that when they ſee men take it up again, they may deride the <hi>Covenanted Preſ<g ref="char:EOLhyphen"/>byterians?</hi>
+                  </p>
+               </div>
+               <div n="10" type="section">
+                  <head>Sectio decima.</head>
+                  <p n="7">7thly. DOctor <hi>Gauden</hi> himſelf hath ſuggeſted two or three ſtrong Arguments againſt it in my apprehenſion: As</p>
+                  <p>
+                     <hi>Firſt,</hi> He juſtifies all the things in it, only a few <hi>verbal defects,</hi> and he lets us know that he is one, if not the chief Corrector.
+<note place="margin">
+                        <hi>Mr. Crofton. Analepſis. p.</hi> 34.</note> I hope he will take care to correct the ſentence in <hi>Pſ.</hi> 15.4. commended to his care by Mr. * <hi>Crofton,</hi> that it may not ſpeak ſo plainly againſt his Politique Notion of an hurtful incommodious Oath.</p>
+                  <p>
+                     <hi>Secondly,</hi> He grants, <hi>page</hi> 5. it is but an <hi>humane conſtitution, ſub<g ref="char:EOLhyphen"/>ject to imperfections.</hi> Now</p>
+                  <p>
+                     <hi>Firſt,</hi> To have an <hi>humane conſtitution</hi> to be impoſed upon the Church, as being abſolutely neceſſary, or as an eſſential part of Gods worſhip, I cannot yield to that; but thus will he have this
+<pb n="36" facs="tcp:61483:31"/>
+                     <hi>Mode</hi> of worſhip, this <hi>humane invention</hi> impoſed. Prayer, without any default, gives him no content; but <hi>theſe prayers</hi> with ſuch <hi>a Mode:</hi> For <hi>this Liturgy,</hi> he tells us, we muſt make it the <hi>main Standard, Teſt,</hi> and <hi>Meaſure</hi> of our <hi>publick devotions,</hi> p. 27. then ſurely that muſt needs be <hi>abſolutely neceſſary</hi> and <hi>eſſential</hi> to our Devotions. He tells us, that <hi>publick piety, reformation, true Religion</hi> are gone, bids Farewel to them all, <hi>pag.</hi> 31. if it be not uſed.</p>
+                  <p>Now as for the ſound Doctrine in it, we own as much as him<g ref="char:EOLhyphen"/>ſelf; but the conteſt hath been about the things offenſive as to matter, and the <hi>Mode;</hi> and he doth conſider it <hi>as a Liturgy,</hi> a Mode of worſhip, and not as having Doctrine which we own, when he ſpeaks thus.</p>
+                  <p>Again, <hi>pag.</hi> 27. He will have <hi>all Miniſters commanded to uſe theſe Forms wholly and ſolely at Sacraments.</hi>
+                  </p>
+                  <p>As if Miniſters underſtanding theſe myſteries, without which they are not fit to diſpenſe them, may not pray as ſutably to them, as before a Sermon. Here that part of worſhip muſt <hi>neceſſarily</hi> be perform'd by a humane conſtitution, be men never ſo able to pray without it, and more aptly and affectionately than by a Book.</p>
+                  <p>
+                     <hi>Apollonius,</hi> in the name of the <hi>Walachrian</hi> Claſſis, declaring his and their judgment about <hi>Forms</hi> of prayer which he deter<g ref="char:EOLhyphen"/>mines for;
+<note place="margin">
+                        <hi>Page</hi> 172.</note> having in his firſt <hi>Theſis</hi> ſhewn his diſlike of the <hi>Forms</hi> of publick Worſhip and Ceremonies in the Church of <hi>England,</hi> in later times, as being Superſtitious and Idolatrous, then he comes to his ſecond, and thus he writes:</p>
+                  <p>
+                     <hi>VVe alſo reject thoſe Forms of prayer, and publick worſhip, which are impoſed upon the conſciences of men with a certain Tyranny and violent command, as abſolutely neceſſary and eſſen<g ref="char:EOLhyphen"/>tial parts of Divine worſhip, although as to the matter they be lawfully dispoſed, yet as to the form and manner by which they are induced, they are made the unlawful inſtruments of cruelty, and pretexts of wicked malice, and occaſions of violent Tyranny, over the moſt worthy and beſt ſons of the Church,</hi> &amp;c. His Reaſon is, <hi>Becauſe Chriſt nor his Apoſtles did ever preſcribe any
+<pb n="37" facs="tcp:61483:31"/>ſuch forms as ſimply and abſolutely neceſſary.</hi> When all other prayers muſt be thruſt out [unleſſe before and after Sermon, and there your Reaſons will hold as well as in other Ordinances] be men ſo able, I think you make your Forms abſolutely neceſ<g ref="char:EOLhyphen"/>ſary, when eſpecially you will thruſt the ableſt men out of the Miniſtry for not yielding to your Forms, I think <hi>Apollonius</hi> is on my ſide.</p>
+                  <p>
+                     <hi>Secondly,</hi> I cannot admit that <hi>Liturgy,</hi> being but an <hi>human conſtitution,</hi> when it hath that attributed to it which is proper onely to the Word of God. The Text ſaith, <hi>To the Law,
+<note place="margin">Iſa. 8.20.</note> to the Teſti<g ref="char:EOLhyphen"/>mony;</hi> Dr. <hi>Gauden</hi> ſaith, To the <hi>Liturgy</hi> for your <hi>Test, your main Standard, your Meaſure in your publick worſhip of God.</hi> And look what the Apoſtle ſaid, <hi>Gal.</hi> 6.16. <hi>As many as walk according</hi> to this Rule, <hi>Peace be on them;</hi> the ſame ſaith the Do<g ref="char:EOLhyphen"/>ctor, as many as walk according to <hi>his Rule,</hi> ſyllabically, <hi>peace to them,</hi> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e elſe.</p>
+                  <p>
+                     <hi>Thirdly, Religion, Piety, Reformation,</hi> come or go, are put or removed, according as Gods Word, Gods own Inſtitutions are ſet up in their purity and power; but they depend not upon a human conſtitution, a humane mode of Worſhip, as Doctor <hi>Gauden</hi> makes them all depend on this <hi>Liturgy,</hi> ſo that they come or go with it. I am ſure this humane conſtitution wants Reformati<g ref="char:EOLhyphen"/>on, and it was taken away by Ordinance of <hi>Parliament</hi> in order to Reformation. Liturgy is <hi>concretum quid,</hi> 'tis not bare Do<g ref="char:EOLhyphen"/>ctrine; nay, the Doctor takes it ſtrictly for a <hi>Form of prayer.</hi> Since then he puts ſo much upon it, I cannot admit it; ſtrange that theſe <hi>three</hi> ſhould depend upon ſuch Forms of prayer.</p>
+                  <p>
+                     <hi>Fourthly,</hi> Neither can I admit of ſuch Forms of prayer as are impoſed upon the Church with deſiance and ſcorn of all the gifts of the Spirit of God in all his people; but ſo doth Dr. <hi>Gau<g ref="char:EOLhyphen"/>den</hi> impoſe this Liturgy. I have heard it called an <hi>Idol,</hi> but I thought it a little too much heat, till now I have read Dr. <hi>Gauden,</hi> who I fear ſpeaks the mind and heart of our Liturgical men; thus much from this Doctor, who ſets me off more then ever I was before.</p>
+                  <p>Theſe things all laid together do ſo trouble me, that I know not how to meddle with it as it is.</p>
+                  <pb n="38" facs="tcp:61483:32"/>
+                  <p>Beſides, there are worthy Divines of the <hi>Presbyterian</hi> per<g ref="char:EOLhyphen"/>ſwaſion, both learned and godly, whom we honor, who it ſeems declared their judgments for a Liturgy to His Majeſty; now we wait for their grounds, who we expect will deal with us upon <hi>Scripture foundations,</hi> and to ſuch we ſhall willingly li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>CONCLUSION.</head>
+               <p>Now I have done with your Book, I leave it to the godly ju<g ref="char:EOLhyphen"/>dicious to determine, whether you have carried your cauſe ſo throughly, that all muſt be charged by you with <hi>pride, peeviſhneſs,</hi> &amp;c. if we do not preſently as you would have us. Sir, though I am a poor ſinful Creature, yet I have not ſo learned the Goſpel, nor do I ſo little deſire the healing of our wounds, nor am I ſo diſloyal to my King, that upon ſuch curſed principles as you men<g ref="char:EOLhyphen"/>tion I would hold off one day. If you will let me ſpeak in the Sea-mans phraſe, I will ſtretch my Bowlings, Haal ſharp, keep my Luff, do what I can to come up for peace; but when Chriſt, who Cuns the Ship, commands, <hi>No near,</hi> we muſt anſwer, <hi>No near, no.</hi>
+               </p>
+               <p>You tell us, <hi>pag.</hi> 40. of an aged Miniſter, <hi>who pleaſing the Vulgar, forbare againſt his Conſcience to uſe Forms of prayer, and now came begging to you, &amp;c.</hi>
+               </p>
+               <p>As for the <hi>Lords prayer,</hi> ſometimes I do uſe it; not becauſe I <hi>muſt,</hi> but becauſe I <hi>may;</hi> yet I condemn no man who doth not uſe it, if he holds to that Subſtance; but for your <hi>Liturgy, and other things,</hi> we look to be <hi>outed</hi> likewiſe; our prayer is, That God would go before us into affliction, clear our way, that we may not miſtake through an erring conſcience; but if we do ſuffer, we may be ſure He calls us to it (your Book hath made our way a little clearer, if all be of your mind) and if my <hi>Bible</hi> will not maintain me and mine, I will then go beg; but I reſolve I will not come to your door.</p>
+               <p>The Title of your Book ſaith, you publiſhed it in order to a <hi>happy union;</hi> Alas, Sir, this, as your other Books ſhew, you have
+<pb n="39" facs="tcp:61483:32"/>none of that Spirit; I know thoſe who are farther off ſince they read your Book; and truly if that were your aim, you have ſo fairly hit it, that I may fitly apply to you that <hi>Disti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on:</hi>
+               </p>
+               <q>Aut Fabrum forceps, aut Ars ignara fefellit: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> voluit cudere, cudit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
